@@ -1,0 +1,25 @@
+# Секреты (токены, ключи)
+.env
+notion_db_ids.json
+
+# Кэши и временные файлы
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.venv314/
+venv/
+
+# Playwright
+.playwright-browsers/
+
+# PyInstaller / desktop build
+dist/
+build/
+*.spec
+
+# macOS
+.DS_Store
+
+# Scraped HTML caches (may embed third-party tokens)
+output/trusteddocks*.html

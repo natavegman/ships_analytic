@@ -1,0 +1,7 @@
+{
+  "imo": "7703998",
+  "status": "not_access",
+  "message": "RMRS returned NOT ACCESS for this IMO (likely not in public RS class register).",
+  "vessel_data": {},
+  "surveys": []
+}

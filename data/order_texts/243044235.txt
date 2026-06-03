@@ -1,0 +1,562 @@
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">  
+	<HTML>  
+	<HEAD>  
+	<META HTTP-EQUIV="GENERATOR" content="KODEKS HTTP">  
+	<META HTTP-EQUIV="Content-Type" content="text/html; charset=windows-1251">
+	<TITLE> 
+		О распределении общих допустимых уловов водных биологических ресурсов Волжско-Каспийского рыбохозяйственного бассейна применительно к видам квот их добычи (вылова) на 2023 год
+	</TITLE>
+	<link rel="icon" href="?favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="?favicon.ico" type="image/x-icon">
+	<LINK rel="stylesheet" type="text/css" href="/?doc_itself.css"}
+	<LINK rel="stylesheet" type="text/css" href="?styles.css"><style type="text/css">
+		pre.empire {font-family: monospace !important}
+	</style><script type="text/javascript" src="?script.js" charset="windows-1251"></script></HEAD><body onload="iePrint();"><span>Приказ Федерального агентства по рыболовству _ от 18.11.2022 г. № 671</span><hr />
+				<div align='right'>
+				<table border='0' cellspacing='0' cellpadding='0' style='margin-right:1.5em'><tr><td align='right'>Исходная редакция</td></tr></table></div><html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<style><!--  /* Font Definitions */  @font-face 	{font-family:"Cambria Math"; 	panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face 	{font-family:Calibri; 	panose-1:2 15 5 2 2 2 4 3 2 4;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{margin:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	font-size:12.0pt; 	font-family:"Times New Roman",serif;} a:link, span.MsoHyperlink 	{color:#0563C1; 	text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed 	{color:#954F72; 	text-decoration:underline;} p.a, li.a, div.a 	{mso-style-name:заголовок; 	mso-style-link:"заголовок Знак"; 	margin-top:0cm; 	margin-right:25.5pt; 	margin-bottom:0cm; 	margin-left:25.5pt; 	margin-bottom:.0001pt; 	text-align:center; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	font-weight:bold;} span.a0 	{mso-style-name:"заголовок Знак"; 	mso-style-link:заголовок; 	font-family:"Calibri",sans-serif; 	font-weight:bold;} p.a1, li.a1, div.a1 	{mso-style-name:минсх; 	mso-style-link:"минсх Знак"; 	margin-top:0cm; 	margin-right:0cm; 	margin-bottom:6.0pt; 	margin-left:0cm; 	text-align:center; 	line-height:150%; 	font-size:12.0pt; 	font-family:"Times New Roman",serif;} p.a2, li.a2, div.a2 	{mso-style-name:ФАР; 	mso-style-link:"ФАР Знак"; 	margin-top:0cm; 	margin-right:0cm; 	margin-bottom:6.0pt; 	margin-left:0cm; 	text-align:center; 	line-height:150%; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	font-weight:bold;} span.a3 	{mso-style-name:"минсх Знак"; 	mso-style-link:минсх; 	font-family:"Calibri",sans-serif;} span.a4 	{mso-style-name:"ФАР Знак"; 	mso-style-link:ФАР; 	font-family:"Calibri",sans-serif; 	font-weight:bold;} p.a5, li.a5, div.a5 	{mso-style-name:"дата\,номер"; 	mso-style-link:"дата Знак\,номер Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	font-size:12.0pt; 	font-family:"Times New Roman",serif;} span.a6 	{mso-style-name:"дата Знак\,номер Знак"; 	mso-style-link:"дата\,номер"; 	font-family:"Calibri",sans-serif;} p.a7, li.a7, div.a7 	{mso-style-name:Приказ; 	mso-style-link:"Приказ Знак"; 	margin-top:12.0pt; 	margin-right:14.2pt; 	margin-bottom:0cm; 	margin-left:14.2pt; 	margin-bottom:.0001pt; 	text-align:center; 	line-height:150%; 	font-size:14.0pt; 	font-family:"Times New Roman",serif; 	font-weight:bold;} span.a8 	{mso-style-name:"Приказ Знак"; 	mso-style-link:Приказ; 	font-family:"Calibri",sans-serif; 	font-weight:bold;} p.a9, li.a9, div.a9 	{mso-style-name:"Подпись руководителя"; 	mso-style-link:"Подпись руководителя Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	font-size:12.0pt; 	font-family:"Times New Roman",serif;} span.aa 	{mso-style-name:"Подпись руководителя Знак"; 	mso-style-link:"Подпись руководителя"; 	font-family:"Calibri",sans-serif;} p.ab, li.ab, div.ab 	{mso-style-name:"Приложение вправо"; 	mso-style-link:"Приложение вправо Знак"; 	margin-top:0cm; 	margin-right:25.5pt; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	text-align:right; 	font-size:11.0pt; 	font-family:"Times New Roman",serif;} span.ac 	{mso-style-name:"Приложение вправо Знак"; 	mso-style-link:"Приложение вправо"; 	font-family:"Calibri",sans-serif;} p.ad, li.ad, div.ad 	{mso-style-name:"Текст таблицы по центру"; 	mso-style-link:"Текст таблицы по центру Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	font-size:10.0pt; 	font-family:"Times New Roman",serif;} span.ae 	{mso-style-name:"Текст таблицы по центру Знак"; 	mso-style-link:"Текст таблицы по центру"; 	font-family:"Calibri",sans-serif;} p.af, li.af, div.af 	{mso-style-name:Утверждены; 	mso-style-link:"Утверждены Знак"; 	margin-top:0cm; 	margin-right:34.0pt; 	margin-bottom:0cm; 	margin-left:262.25pt; 	margin-bottom:.0001pt; 	text-align:center; 	font-size:11.0pt; 	font-family:"Times New Roman",serif;} span.af0 	{mso-style-name:"Утверждены Знак"; 	mso-style-link:Утверждены; 	font-family:"Calibri",sans-serif;} @page WordSection1 	{size:21.0cm 841.95pt; 	margin:2.0cm 42.5pt 2.0cm 3.0cm;} div.WordSection1 	{page:WordSection1;}  pre {white-space: pre-wrap;word-wrap: break-word;} --><!--
+
+--></style>
+
+</head>
+
+<body lang="RU" link="#0563C1" vlink="#954F72">
+
+<div class="WordSection1">
+
+<p class="a1">МИНИСТЕРСТВО СЕЛЬСКОГО ХОЗЯЙСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ</p>
+
+<p class="a2">ФЕДЕРАЛЬНОЕ АГЕНТСТВО ПО РЫБОЛОВСТВУ</p>
+
+<p class="a2">(Росрыболовство)</p>
+
+<p class="a7">П&nbsp;Р&nbsp;И&nbsp;К&nbsp;А&nbsp;З</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="a5">18 ноября 2022
+года&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Москва&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;№&nbsp;671</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="a">О&nbsp;распределении общих допустимых уловов водных биологических
+ресурсов Волжско-Каспийского рыбохозяйственного бассейна применительно к&nbsp;видам
+квот их добычи (вылова) на&nbsp;2023&nbsp;год</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">В&nbsp;соответствии со&nbsp;статьей&nbsp;30 Федерального
+закона <a href="k6clnthook://&amp;nd=231004708&amp;rdk=0&amp;refoid=243044236">от&nbsp;20&nbsp;декабря&nbsp;2004&nbsp;г.&nbsp;№&nbsp;166-ФЗ</a>
+&quot;О&nbsp;рыболовстве и&nbsp;сохранении водных биологических ресурсов&quot;,
+пунктом&nbsp;5.5.5. Положения о&nbsp;Федеральном агентстве по&nbsp;рыболовству,
+утвержденного постановлением Правительства Российской Федерации <a href="k6clnthook://&amp;nd=231007420&amp;rdk=0&amp;refoid=243044237">от&nbsp;11&nbsp;июня&nbsp;2008&nbsp;г.&nbsp;№&nbsp;444</a>,
+постановлением Правительства Российской Федерации <a href="k6clnthook://&amp;nd=231005349&amp;rdk=0&amp;refoid=243044238">от&nbsp;15&nbsp;декабря&nbsp;2005&nbsp;г.&nbsp;№&nbsp;768</a>
+&quot;О&nbsp;распределении общих допустимых уловов водных биологических
+ресурсов применительно к&nbsp;видам квот их добычи (вылова)&quot;, приказом
+Минсельхоза России от&nbsp;30&nbsp;сентября&nbsp;2022&nbsp;г.&nbsp;№&nbsp;648 &quot;Об&nbsp;утверждении
+общего допустимого улова водных биологических ресурсов во&nbsp;внутренних
+морских водах Российской Федерации, в территориальном море Российской
+Федерации, на&nbsp;континентальном шельфе Российской Федерации, в&nbsp;исключительной
+экономической зоне Российской Федерации и&nbsp;Каспийском море на&nbsp;2023&nbsp;год&quot;<b><span style="letter-spacing:1.2pt">&nbsp;&nbsp;приказываю:</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">Распределить общие допустимые уловы водных биологических
+ресурсов Волжско-Каспийского рыбохозяйственного бассейна применительно к&nbsp;следующим
+видам квот их&nbsp;добычи (вылова) на&nbsp;2023&nbsp;год:</p>
+
+<p class="MsoNormal">-&nbsp;квоты добычи (вылова) водных биологических ресурсов
+для&nbsp;осуществления рыболовства в&nbsp;научно-исследовательских и&nbsp;контрольных
+целях согласно приложению&nbsp;1 к&nbsp;настоящему приказу;</p>
+
+<p class="MsoNormal">-&nbsp;квоты добычи (вылова) водных биологических ресурсов
+для&nbsp;осуществления рыболовства в&nbsp;целях аквакультуры (рыбоводства)
+согласно приложению&nbsp;2 к&nbsp;настоящему приказу;</p>
+
+<p class="MsoNormal">-&nbsp;квоты добычи (вылова) водных биологических ресурсов
+для&nbsp;осуществления рыболовства в&nbsp;учебных и&nbsp;культурно-просветительских
+целях согласно приложению&nbsp;3 к&nbsp;настоящему приказу;</p>
+
+<p class="MsoNormal">-&nbsp;квоты добычи (вылова) водных биологических ресурсов
+во&nbsp;внутренних морских водах Российской Федерации, в&nbsp;территориальном
+море Российской Федерации, на&nbsp;континентальном шельфе Российской Федерации,
+в&nbsp;исключительной экономической зоне Российской Федерации, Каспийском море
+для&nbsp;осуществления промышленного рыболовства и&nbsp;(или) прибрежного
+рыболовства согласно приложению&nbsp;4 к&nbsp;настоящему приказу.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="a9">Заместитель&nbsp;руководителя&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В.И.&nbsp;Соколов</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:1.35pt;border-collapse:collapse">
+ <tr>
+  <td width="641" colspan="2" valign="top" style="width:480.6pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">Приложение&nbsp;1</p>
+  <p class="af">к&nbsp;приказу Росрыболовства</p>
+  <p class="af">от&nbsp;18&nbsp;ноября 2022&nbsp;г. №&nbsp;671</p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="a"><span style="font-weight:normal">Квоты добычи (вылова) водных
+  биологических ресурсов для&nbsp;осуществления рыболовства
+  в&nbsp;научно-исследовательских и&nbsp;контрольных целях
+  на&nbsp;2023&nbsp;год</span></p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="ab">(тонн)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Водные&nbsp;биологические&nbsp;ресурсы</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Каспийское&nbsp;море</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Белуга</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,450</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Осетр русский</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">2,650</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Осетр персидский</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,280</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Севрюга</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,720</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Вобла</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">13,782</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Судак</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">2,167</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Лещ</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">14,242</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сом пресноводный</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">2,610</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Щука</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">2,690</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сазан</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">5,050</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Раки</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,750</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:1.35pt;border-collapse:collapse">
+ <tr>
+  <td width="641" colspan="2" valign="top" style="width:480.6pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">Приложение&nbsp;2</p>
+  <p class="af">к&nbsp;приказу Росрыболовства</p>
+  <p class="af">от&nbsp;18&nbsp;ноября 2022&nbsp;г. №&nbsp;671</p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="a"><span style="font-weight:normal">Квоты добычи (вылова) водных
+  биологических ресурсов для осуществления рыболовства в&nbsp;целях
+  аквакультуры (рыбоводства) на&nbsp;2023&nbsp;год</span></p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="ab">(тонн)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Водные&nbsp;биологические&nbsp;ресурсы</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Каспийское&nbsp;море</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сазан</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,423</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:1.35pt;border-collapse:collapse">
+ <tr>
+  <td width="641" colspan="2" valign="top" style="width:480.6pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">Приложение&nbsp;3</p>
+  <p class="af">к&nbsp;приказу Росрыболовства</p>
+  <p class="af">от&nbsp;18&nbsp;ноября 2022&nbsp;г. №&nbsp;671</p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="a"><span style="font-weight:normal">Квоты добычи (вылова) водных
+  биологических ресурсов для&nbsp;осуществления рыболовства в&nbsp;учебных
+  и&nbsp;культурно-просветительских целях на&nbsp;2023&nbsp;год</span></p>
+  <p class="a"><span style="font-weight:normal">&nbsp;</span></p>
+  <p class="ab">(тонн)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Водные&nbsp;биологические&nbsp;ресурсы</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Каспийское&nbsp;море</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Вобла</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,100</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Лещ</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,100</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сазан</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,100</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сом пресноводный</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,100</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Судак</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,050</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Щука</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">0,050</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:1.35pt;border-collapse:collapse">
+ <tr>
+  <td width="641" colspan="2" valign="top" style="width:480.6pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">Приложение&nbsp;4</p>
+  <p class="af">к&nbsp;приказу Росрыболовства</p>
+  <p class="af">от&nbsp;18&nbsp;ноября 2022&nbsp;г. №&nbsp;671</p>
+  <p class="MsoNormal">&nbsp;</p>
+  <p class="a"><span style="font-weight:normal">Квоты добычи (вылова) водных
+  биологических ресурсов во&nbsp;внутренних морских водах Российской Федерации,
+  в&nbsp;территориальном море Российской Федерации, на&nbsp;континентальном
+  шельфе Российской Федерации, в&nbsp;исключительной экономической зоне
+  Российской Федерации, Каспийском море для&nbsp;осуществления промышленного
+  рыболовства и&nbsp;(или) прибрежного рыболовства на&nbsp;2023&nbsp;год</span></p>
+  <p class="a"><span style="font-weight:normal">&nbsp;</span></p>
+  <p class="ab">(тонн)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Водные&nbsp;биологические&nbsp;ресурсы</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Каспийское&nbsp;море</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сазан</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">3295,427</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Сом пресноводный</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">6823,290</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Лещ</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">5311,658</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Щука</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">5112,260</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Вобла</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">246,118</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Судак</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">1152,783</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">Раки</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="ad">29,550</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="315" valign="top" style="width:236.25pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+  <td width="326" valign="top" style="width:244.35pt;padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
+</BODY></HTML>

@@ -1,0 +1,6 @@
+# Для выгрузки Цербера (cerberus.vetrf.ru) и разбора XLS
+# Установка: pip install -r requirements.txt -r requirements-cerberus.txt && playwright install chromium
+playwright>=1.40.0
+pandas>=2.2.0
+openpyxl>=3.1.0
+xlrd>=2.0.0

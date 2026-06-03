@@ -1,0 +1,29 @@
+{
+  "innfl:053101953102": {
+    "action": "skipped"
+  },
+  "innfl:250800740146": {
+    "action": "set_group",
+    "group": "ГК УТРФ"
+  },
+  "innfl:251800862072": {
+    "action": "set_group",
+    "group": "ГК Гидрострой ПБТФ"
+  },
+  "innfl:253903527440": {
+    "action": "set_group",
+    "group": "ГК Доброфлот"
+  },
+  "innfl:510500331716": {
+    "action": "set_group",
+    "group": "Группа Согласие"
+  },
+  "innfl:519030320149": {
+    "action": "set_group",
+    "group": "ГК Норебо"
+  },
+  "innfl:650500405035": {
+    "action": "set_group",
+    "group": "ГК Доброфлот"
+  }
+}

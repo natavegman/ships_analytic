@@ -1,0 +1,1524 @@
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">  
+	<HTML>  
+	<HEAD>  
+	<META HTTP-EQUIV="GENERATOR" content="KODEKS HTTP">  
+	<META HTTP-EQUIV="Content-Type" content="text/html; charset=windows-1251">
+	<TITLE> 
+		О внесении изменения в приложение к приказу Росрыболовства от 20 декабря 2022 г. № 753 (О распределении объема части общего допустимого улова водных биологических ресурсов, утвержденного применительно к квоте добычи (вылова) водных биологических ресурсов во внутренних морских водах Российской Федерации, в территориальном море Российской Федерации, на континентальном шельфе Российской Федерации, в исключительной экономической зоне Российской Федерации для осуществления промышленного рыболовства и (или) прибрежного рыболовства по пользователям Дальневосточного рыбохозяйственного бассейна на 2023 год)
+	</TITLE>
+	<link rel="icon" href="?favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="?favicon.ico" type="image/x-icon">
+	<LINK rel="stylesheet" type="text/css" href="/?doc_itself.css"}
+	<LINK rel="stylesheet" type="text/css" href="?styles.css"><style type="text/css">
+		pre.empire {font-family: monospace !important}
+	</style><script type="text/javascript" src="?script.js" charset="windows-1251"></script></HEAD><body onload="iePrint();"><span>Приказ Федерального агентства по рыболовству _ от 22.05.2023 г. № 274</span><hr />
+				<div align='right'>
+				<table border='0' cellspacing='0' cellpadding='0' style='margin-right:1.5em'><tr><td align='right'>Исходная редакция</td></tr></table></div><html xmlns="http://www.w3.org/TR/REC-html40" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link href="image7.xml" rel="File-List"></link>
+<!---->
+<link href="image4.thmx" rel="themeData"></link>
+<link href="image8.xml" rel="colorSchemeMapping"></link>
+<!--[if gte mso 9]><xml>  <w:WordDocument>   <w:TrackMoves>false</w:TrackMoves>   <w:TrackFormatting/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:DoNotPromoteQF/>   <w:LidThemeOther>RU</w:LidThemeOther>   <w:LidThemeAsian>X-NONE</w:LidThemeAsian>   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:UseWord2010TableStyleRules/>    <w:DontUseIndentAsNumberingTabStop/>    <w:FELineBreak11/>    <w:WW11IndentRules/>    <w:DontAutofitConstrainedTables/>    <w:AutofitLikeWW11/>    <w:HangulWidthLikeWW11/>    <w:UseNormalStyleForList/>    <w:DontVertAlignCellWithSp/>    <w:DontBreakConstrainedForcedTables/>    <w:DontVertAlignInTxbx/>    <w:Word11KerningPairs/>    <w:CachedColBalance/>   </w:Compatibility>   <w:DocumentVariables>    <w:K6clnt>1</w:K6clnt>   </w:DocumentVariables>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>   <m:mathPr>    <m:mathFont m:val="Cambria Math"/>    <m:brkBin m:val="before"/>    <m:brkBinSub m:val="&#45;-"/>    <m:smallFrac m:val="off"/>    <m:dispDef/>    <m:lMargin m:val="0"/>    <m:rMargin m:val="0"/>    <m:defJc m:val="centerGroup"/>    <m:wrapIndent m:val="1440"/>    <m:intLim m:val="subSup"/>    <m:naryLim m:val="undOvr"/>   </m:mathPr></w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"   DefSemiHidden="false" DefQFormat="false" DefPriority="99"   LatentStyleCount="371">   <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>   <w:LsdException Locked="false" Priority="9" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 6"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 7"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 8"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index 9"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 1"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 2"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 3"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 4"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 5"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 6"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 7"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 8"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" Name="toc 9"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Normal Indent"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="footnote text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="annotation text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="header"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="footer"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="index heading"/>   <w:LsdException Locked="false" Priority="35" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="caption"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="table of figures"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="envelope address"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="envelope return"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="footnote reference"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="annotation reference"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="line number"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="page number"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="endnote reference"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="endnote text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="table of authorities"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="macro"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="toa heading"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Bullet"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Number"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Bullet 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Bullet 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Bullet 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Bullet 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Number 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Number 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Number 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Number 5"/>   <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Closing"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Signature"/>   <w:LsdException Locked="false" Priority="1" SemiHidden="true"    UnhideWhenUsed="true" Name="Default Paragraph Font"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text Indent"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Continue"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Continue 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Continue 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Continue 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="List Continue 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Message Header"/>   <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Salutation"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Date"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text First Indent"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text First Indent 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Note Heading"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text Indent 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Body Text Indent 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Block Text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Hyperlink"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="FollowedHyperlink"/>   <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>   <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Document Map"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Plain Text"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="E-mail Signature"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Top of Form"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Bottom of Form"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Normal (Web)"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Acronym"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Address"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Cite"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Code"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Definition"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Keyboard"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Preformatted"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Sample"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Typewriter"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="HTML Variable"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Normal Table"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="annotation subject"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="No List"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Outline List 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Outline List 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Outline List 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Simple 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Simple 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Simple 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Classic 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Classic 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Classic 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Classic 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Colorful 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Colorful 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Colorful 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Columns 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Columns 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Columns 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Columns 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Columns 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 6"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 7"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Grid 8"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 4"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 5"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 6"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 7"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table List 8"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table 3D effects 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table 3D effects 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table 3D effects 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Contemporary"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Elegant"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Professional"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Subtle 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Subtle 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Web 1"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Web 2"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Web 3"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Balloon Text"/>   <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"    Name="Table Theme"/>   <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>   <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>   <w:LsdException Locked="false" Priority="61" Name="Light List"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>   <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>   <w:LsdException Locked="false" Priority="34" QFormat="true"    Name="List Paragraph"/>   <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>   <w:LsdException Locked="false" Priority="30" QFormat="true"    Name="Intense Quote"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>   <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>   <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>   <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>   <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>   <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>   <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>   <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>   <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>   <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>   <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>   <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>   <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>   <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>   <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>   <w:LsdException Locked="false" Priority="19" QFormat="true"    Name="Subtle Emphasis"/>   <w:LsdException Locked="false" Priority="21" QFormat="true"    Name="Intense Emphasis"/>   <w:LsdException Locked="false" Priority="31" QFormat="true"    Name="Subtle Reference"/>   <w:LsdException Locked="false" Priority="32" QFormat="true"    Name="Intense Reference"/>   <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>   <w:LsdException Locked="false" Priority="37" SemiHidden="true"    UnhideWhenUsed="true" Name="Bibliography"/>   <w:LsdException Locked="false" Priority="39" SemiHidden="true"    UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>   <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>   <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>   <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>   <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>   <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>   <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>   <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>   <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>   <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 1"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 1"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 1"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 2"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 2"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 2"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 3"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 3"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 3"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 4"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 4"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 4"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 5"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 5"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 5"/>   <w:LsdException Locked="false" Priority="46"    Name="Grid Table 1 Light Accent 6"/>   <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>   <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>   <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>   <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>   <w:LsdException Locked="false" Priority="51"    Name="Grid Table 6 Colorful Accent 6"/>   <w:LsdException Locked="false" Priority="52"    Name="Grid Table 7 Colorful Accent 6"/>   <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>   <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>   <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 1"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 1"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 1"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 2"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 2"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 2"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 3"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 3"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 3"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 4"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 4"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 4"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 5"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 5"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 5"/>   <w:LsdException Locked="false" Priority="46"    Name="List Table 1 Light Accent 6"/>   <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>   <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>   <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>   <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>   <w:LsdException Locked="false" Priority="51"    Name="List Table 6 Colorful Accent 6"/>   <w:LsdException Locked="false" Priority="52"    Name="List Table 7 Colorful Accent 6"/>  </w:LatentStyles> </xml><![endif]-->
+<style><!--  /* Font Definitions */  @font-face 	{font-family:"Cambria Math"; 	panose-1:2 4 5 3 5 4 6 3 2 4; 	mso-font-charset:204; 	mso-generic-font-family:roman; 	mso-font-pitch:variable; 	mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face 	{font-family:"Calibri Light"; 	panose-1:2 15 3 2 2 2 4 3 2 4; 	mso-font-charset:204; 	mso-generic-font-family:swiss; 	mso-font-pitch:variable; 	mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face 	{font-family:Calibri; 	panose-1:2 15 5 2 2 2 4 3 2 4; 	mso-font-charset:204; 	mso-generic-font-family:swiss; 	mso-font-pitch:variable; 	mso-font-signature:-469750017 -1073732485 9 0 511 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-name:"Обычный\,Абзац Основной текст"; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-parent:""; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	mso-pagination:widow-orphan; 	text-autospace:none; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} h1 	{mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Заголовок 1 Знак"; 	margin-top:12.0pt; 	margin-right:0cm; 	margin-bottom:8.0pt; 	margin-left:0cm; 	line-height:105%; 	mso-pagination:widow-orphan; 	page-break-after:avoid; 	mso-outline-level:1; 	font-size:16.0pt; 	font-family:"Calibri Light",sans-serif; 	font-weight:normal;} h2 	{mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Заголовок 2 Знак"; 	margin-top:2.0pt; 	margin-right:0cm; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	mso-pagination:widow-orphan; 	page-break-after:avoid; 	mso-outline-level:2; 	font-size:13.0pt; 	font-family:"Calibri Light",sans-serif; 	color:#2E74B5; 	font-weight:normal;} h3 	{mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Заголовок 3 Знак"; 	margin-top:2.0pt; 	margin-right:0cm; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	mso-pagination:widow-orphan; 	page-break-after:avoid; 	mso-outline-level:3; 	font-size:12.0pt; 	font-family:"Calibri Light",sans-serif; 	color:#1F4D78; 	font-weight:normal;} h4 	{mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Заголовок 4 Знак"; 	margin-top:2.0pt; 	margin-right:0cm; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	mso-pagination:widow-orphan; 	page-break-after:avoid; 	mso-outline-level:4; 	font-size:12.0pt; 	font-family:"Calibri Light",sans-serif; 	color:#2E74B5; 	font-weight:normal; 	font-style:italic;} p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText 	{mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-link:"Текст сноски Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:justify; 	text-indent:35.45pt; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.MsoFootnoteReference 	{mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-parent:""; 	vertical-align:super;} a:link, span.MsoHyperlink 	{mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-parent:""; 	color:#0563C1; 	text-decoration:underline; 	text-underline:single;} a:visited, span.MsoHyperlinkFollowed 	{mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-parent:""; 	color:#954F72; 	text-decoration:underline; 	text-underline:single;} span.1 	{mso-style-name:"Заголовок 1 Знак"; 	mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Заголовок 1"; 	font-family:"Calibri Light",sans-serif; 	mso-ascii-font-family:"Calibri Light"; 	mso-hansi-font-family:"Calibri Light"; 	mso-bidi-font-family:"Calibri Light";} span.2 	{mso-style-name:"Заголовок 2 Знак"; 	mso-style-noshow:yes; 	mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Заголовок 2"; 	font-family:"Calibri Light",sans-serif; 	mso-ascii-font-family:"Calibri Light"; 	mso-hansi-font-family:"Calibri Light"; 	mso-bidi-font-family:"Calibri Light"; 	color:#2E74B5;} span.3 	{mso-style-name:"Заголовок 3 Знак"; 	mso-style-noshow:yes; 	mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Заголовок 3"; 	font-family:"Calibri Light",sans-serif; 	mso-ascii-font-family:"Calibri Light"; 	mso-hansi-font-family:"Calibri Light"; 	mso-bidi-font-family:"Calibri Light"; 	color:#1F4D78;} span.4 	{mso-style-name:"Заголовок 4 Знак"; 	mso-style-noshow:yes; 	mso-style-priority:9; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Заголовок 4"; 	font-family:"Calibri Light",sans-serif; 	mso-ascii-font-family:"Calibri Light"; 	mso-hansi-font-family:"Calibri Light"; 	mso-bidi-font-family:"Calibri Light"; 	color:#2E74B5; 	font-style:italic;} span.a 	{mso-style-name:"Текст сноски Знак"; 	mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Текст сноски"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} span.a0 	{mso-style-name:"заголовок Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:заголовок; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman"; 	font-weight:bold;} p.a1, li.a1, div.a1 	{mso-style-name:заголовок; 	mso-style-unhide:no; 	mso-style-link:"заголовок Знак"; 	margin-top:0cm; 	margin-right:25.5pt; 	margin-bottom:0cm; 	margin-left:25.5pt; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} span.a2 	{mso-style-name:"минсх Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:минсх; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.a3, li.a3, div.a3 	{mso-style-name:минсх; 	mso-style-unhide:no; 	mso-style-link:"минсх Знак"; 	margin-top:0cm; 	margin-right:0cm; 	margin-bottom:6.0pt; 	margin-left:0cm; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.a4 	{mso-style-name:"ФАР Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:ФАР; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman"; 	font-weight:bold;} p.a5, li.a5, div.a5 	{mso-style-name:ФАР; 	mso-style-unhide:no; 	mso-style-link:"ФАР Знак"; 	margin-top:0cm; 	margin-right:0cm; 	margin-bottom:6.0pt; 	margin-left:0cm; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} span.a6 	{mso-style-name:"дата Знак\,номер Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"дата\,номер"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.a7, li.a7, div.a7 	{mso-style-name:"дата\,номер"; 	mso-style-unhide:no; 	mso-style-link:"дата Знак\,номер Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.a8 	{mso-style-name:"Приказ Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:Приказ; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman"; 	font-weight:bold;} p.a9, li.a9, div.a9 	{mso-style-name:Приказ; 	mso-style-unhide:no; 	mso-style-link:"Приказ Знак"; 	margin-top:12.0pt; 	margin-right:14.2pt; 	margin-bottom:0cm; 	margin-left:14.2pt; 	margin-bottom:.0001pt; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:14.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} span.aa 	{mso-style-name:"Подпись руководителя Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Подпись руководителя"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.ab, li.ab, div.ab 	{mso-style-name:"Подпись руководителя"; 	mso-style-unhide:no; 	mso-style-link:"Подпись руководителя Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.ac 	{mso-style-name:"Приложение вправо Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Приложение вправо"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.ad, li.ad, div.ad 	{mso-style-name:"Приложение вправо"; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Приложение вправо Знак"; 	margin-top:0cm; 	margin-right:25.5pt; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	text-align:right; 	mso-pagination:widow-orphan; 	font-size:11.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.ae 	{mso-style-name:"Текст таблицы влево Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Текст таблицы влево"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.af, li.af, div.af 	{mso-style-name:"Текст таблицы влево"; 	mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-link:"Текст таблицы влево Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.af0 	{mso-style-name:"Текст таблицы по центру Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"Текст таблицы по центру"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.af1, li.af1, div.af1 	{mso-style-name:"Текст таблицы по центру"; 	mso-style-unhide:no; 	mso-style-link:"Текст таблицы по центру Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} p.af2, li.af2, div.af2 	{mso-style-name:"Шапка таблицы"; 	mso-style-unhide:no; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:8.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} span.af3 	{mso-style-name:"Утверждены Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:Утверждены; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.af4, li.af4, div.af4 	{mso-style-name:Утверждены; 	mso-style-unhide:no; 	mso-style-link:"Утверждены Знак"; 	margin-top:0cm; 	margin-right:34.0pt; 	margin-bottom:0cm; 	margin-left:262.25pt; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:11.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.20 	{mso-style-name:"МСХРФ 2 строки Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"МСХРФ 2 строки"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman"; 	font-weight:bold;} p.21, li.21, div.21 	{mso-style-name:"МСХРФ 2 строки"; 	mso-style-unhide:no; 	mso-style-link:"МСХРФ 2 строки Знак"; 	margin-top:0cm; 	margin-right:34.0pt; 	margin-bottom:0cm; 	margin-left:34.0pt; 	margin-bottom:.0001pt; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} span.af5 	{mso-style-name:"\(Минсельхоз России\) Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"\(Минсельхоз России\)"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.af6, li.af6, div.af6 	{mso-style-name:"\(Минсельхоз России\)"; 	mso-style-unhide:no; 	mso-style-link:"\(Минсельхоз России\) Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.af7 	{mso-style-name:"Шестаков Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:Шестаков; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.af8, li.af8, div.af8 	{mso-style-name:Шестаков; 	mso-style-unhide:no; 	mso-style-link:"Шестаков Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.af9 	{mso-style-name:"линия Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:линия; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.afa, li.afa, div.afa 	{mso-style-name:линия; 	mso-style-unhide:no; 	mso-style-link:"линия Знак"; 	margin-top:0cm; 	margin-right:31.2pt; 	margin-bottom:0cm; 	margin-left:31.2pt; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.afb 	{mso-style-name:"Кремль Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:Кремль; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.afc, li.afc, div.afc 	{mso-style-name:Кремль; 	mso-style-unhide:no; 	mso-style-link:"Кремль Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} p.afd, li.afd, div.afd 	{mso-style-name:Минюст; 	mso-style-unhide:no; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.afe 	{mso-style-name:"сноска Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:сноска; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman";} p.aff, li.aff, div.aff 	{mso-style-name:сноска; 	mso-style-unhide:no; 	mso-style-link:"сноска Знак"; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:11.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} span.aff0 	{mso-style-name:"ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ Знак"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-parent:""; 	mso-style-link:"ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ"; 	font-family:"Times New Roman",serif; 	mso-ascii-font-family:"Times New Roman"; 	mso-hansi-font-family:"Times New Roman"; 	mso-bidi-font-family:"Times New Roman"; 	font-weight:bold;} p.aff1, li.aff1, div.aff1 	{mso-style-name:"ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ"; 	mso-style-unhide:no; 	mso-style-link:"ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ Знак"; 	margin-top:0cm; 	margin-right:0cm; 	margin-bottom:6.0pt; 	margin-left:0cm; 	text-align:center; 	line-height:150%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} p.aff2, li.aff2, div.aff2 	{mso-style-name:"Влево Обычный"; 	mso-style-unhide:no; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} p.aff3, li.aff3, div.aff3 	{mso-style-name:"Текст таблицы влево полужирный"; 	mso-style-unhide:no; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} p.aff4, li.aff4, div.aff4 	{mso-style-name:"Текст таблицы по центру полужирный"; 	mso-style-unhide:no; 	margin:0cm; 	margin-bottom:.0001pt; 	text-align:center; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman"; 	font-weight:bold;} p.aff5, li.aff5, div.aff5 	{mso-style-name:"Текст таблицы вправо"; 	mso-style-unhide:no; 	margin-top:0cm; 	margin-right:5.65pt; 	margin-bottom:0cm; 	margin-left:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} p.aff6, li.aff6, div.aff6 	{mso-style-name:"Приложение вправо полужирный"; 	mso-style-unhide:no; 	margin-top:0cm; 	margin-right:25.5pt; 	margin-bottom:0cm; 	margin-left:25.5pt; 	margin-bottom:.0001pt; 	text-align:right; 	mso-pagination:widow-orphan; 	font-size:11.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} p.msochpdefault, li.msochpdefault, div.msochpdefault 	{mso-style-name:msochpdefault; 	mso-style-unhide:no; 	mso-margin-top-alt:auto; 	margin-right:0cm; 	mso-margin-bottom-alt:auto; 	margin-left:0cm; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Calibri",sans-serif; 	mso-fareast-font-family:"Times New Roman";} p.msopapdefault, li.msopapdefault, div.msopapdefault 	{mso-style-name:msopapdefault; 	mso-style-unhide:no; 	mso-margin-top-alt:auto; 	margin-right:0cm; 	margin-bottom:8.0pt; 	margin-left:0cm; 	line-height:105%; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman",serif; 	mso-fareast-font-family:"Times New Roman";} .MsoChpDefault 	{mso-style-type:export-only; 	mso-default-props:yes; 	mso-ascii-font-family:Calibri; 	mso-hansi-font-family:Calibri; 	mso-bidi-font-family:Calibri;} @page WordSection1 	{size:595.25pt 841.85pt; 	margin:2.0cm 42.5pt 2.0cm 3.0cm; 	mso-header-margin:35.4pt; 	mso-footer-margin:35.4pt; 	mso-paper-source:0;} div.WordSection1 	{page:WordSection1;} @page WordSection2 	{size:841.85pt 595.25pt; 	mso-page-orientation:landscape; 	margin:36.0pt 36.0pt 36.0pt 36.0pt; 	mso-header-margin:35.4pt; 	mso-footer-margin:35.4pt; 	mso-paper-source:0;} div.WordSection2 	{page:WordSection2;}  pre {white-space: pre-wrap;word-wrap: break-word;} --><!--
+
+--></style>
+<!--[if gte mso 10]> <style>  /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Обычная таблица"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-parent:""; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Calibri",sans-serif;} </style> <![endif]--><!----><!---->
+</head>
+
+<body lang="RU" link="#0563C1" vlink="#954F72" style="tab-interval:35.4pt">
+
+<div class="WordSection1">
+
+<p class="a3">МИНИСТЕРСТВО СЕЛЬСКОГО ХОЗЯЙСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ</p>
+
+<p class="a5">ФЕДЕРАЛЬНОЕ АГЕНТСТВО ПО РЫБОЛОВСТВУ</p>
+
+<p class="a5">(Росрыболовство)</p>
+
+<p class="a9">П&nbsp;Р&nbsp;И&nbsp;К&nbsp;А&nbsp;З</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="a7">22<span lang="EN-US" style="mso-ansi-language:EN-US">&nbsp;</span>мая&nbsp;2023&nbsp;года&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Москва&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;№&nbsp;274</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="a1">О&nbsp;внесении изменения в&nbsp;приложение к&nbsp;приказу
+Росрыболовства от&nbsp;20&nbsp;декабря&nbsp;2022&nbsp;г.&nbsp;№&nbsp;753</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">В&nbsp;соответствии с&nbsp;Положением о&nbsp;Федеральном
+агентстве по&nbsp;рыболовству, утвержденным постановлением Правительства
+Российской Федерации <a href="k6clnthook://&amp;nd=231007420&amp;rdk=0&amp;refoid=243046837">от&nbsp;11&nbsp;июня&nbsp;2008&nbsp;г.&nbsp;№&nbsp;444</a>,
+постановлением Правительства Российской Федерации <a href="k6clnthook://&amp;nd=231019924&amp;rdk=0&amp;refoid=243046838">от&nbsp;23&nbsp;августа&nbsp;2018&nbsp;г.&nbsp;№&nbsp;987</a>
+&quot;О&nbsp;распределении квот добычи (вылова) водных биологических ресурсов
+в&nbsp;соответствии с&nbsp;частью&nbsp;12 статьи&nbsp;31 Федерального закона
+&quot;О&nbsp;рыболовстве и&nbsp;сохранении водных биологических ресурсов&quot;
+и&nbsp;признании утратившими силу некоторых актов Правительства Российской
+Федерации&quot;, приказом Росрыболовства <a href="k6clnthook://&amp;nd=243044423&amp;rdk=0&amp;refoid=243046839">от&nbsp;5&nbsp;декабря&nbsp;2022&nbsp;г.&nbsp;№&nbsp;707</a>
+&quot;О&nbsp;распределении общих допустимых уловов водных биологических
+ресурсов Дальневосточного рыбохозяйственного бассейна применительно
+к&nbsp;видам квот их добычи (вылова) на&nbsp;2023&nbsp;год&quot;, договором
+о&nbsp;закреплении доли квоты добычи (вылова) водных биологических ресурсов во
+внутренних морских водах Российской Федерации, в&nbsp;территориальном море
+Российской Федерации, на&nbsp;континентальном шельфе Российской Федерации,
+в&nbsp;исключительной экономической зоне Российской Федерации, Каспийском море
+для осуществления промышленного рыболовства и&nbsp;(или) прибрежного
+рыболовства, заключенным между Росрыболовством и&nbsp;обществом
+с&nbsp;ограниченной ответственностью &quot;Камкорн и&nbsp;Ко&quot;
+(ИНН&nbsp;4101020811) от&nbsp;31&nbsp;марта 2023&nbsp;г. №&nbsp;ДВ-А-475
+(Треска, Северо-Курильская зона, размер доли&nbsp;– 0,013%), на&nbsp;основании
+Протокола аукциона по&nbsp;продаже права на&nbsp;заключение договора
+о&nbsp;закреплении доли квоты добычи (вылова) водных биологических ресурсов во
+внутренних морских водах Российской Федерации, в&nbsp;территориальном море
+Российской Федерации, на&nbsp;континентальном шельфе Российской Федерации,
+в&nbsp;исключительной экономической зоне Российской Федерации для осуществления
+промышленного и&nbsp;(или) прибрежного рыболовства водных биологических
+ресурсов в&nbsp;Дальневосточном рыбохозяйственном бассейне от&nbsp;15-16&nbsp;марта
+2023&nbsp;г. &nbsp;<b><span style="letter-spacing:1.2pt">приказываю:</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:1.2pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal">1.&nbsp;Внести в&nbsp;приложение &quot;Распределение объема
+части общего допустимого улова водных биологических ресурсов, утвержденного
+применительно к&nbsp;квоте добычи (вылова) водных биологических ресурсов во
+внутренних морских водах Российской Федерации, в&nbsp;территориальном море
+Российской Федерации, на&nbsp;континентальном шельфе Российской Федерации,
+в&nbsp;исключительной экономической зоне Российской Федерации, Каспийском море
+(далее&nbsp;– квота добычи (вылова) водных биологических ресурсов
+в&nbsp;морских водах), между лицами, с&nbsp;которыми заключены договоры
+о&nbsp;закреплении доли квоты добычи (вылова) водных биологических ресурсов
+в&nbsp;морских водах для осуществления промышленного рыболовства и&nbsp;(или)
+прибрежного рыболовства&quot; к&nbsp;приказу Росрыболовства <a href="k6clnthook://&amp;nd=243044763&amp;rdk=0&amp;refoid=243046836">от&nbsp;20&nbsp;декабря&nbsp;2022&nbsp;г.&nbsp;№&nbsp;753</a>
+&quot;О&nbsp;распределении объема части общего допустимого улова водных
+биологических ресурсов, утвержденного применительно к&nbsp;квоте добычи
+(вылова) водных биологических ресурсов во&nbsp;внутренних морских водах
+Российской Федерации, в&nbsp;территориальном море Российской Федерации,
+на&nbsp;континентальном шельфе Российской Федерации, в&nbsp;исключительной
+экономической зоне Российской Федерации для осуществления промышленного
+рыболовства и&nbsp;(или) прибрежного рыболовства по&nbsp;пользователям
+Дальневосточного рыбохозяйственного бассейна на&nbsp;2023&nbsp;год&quot;
+(с&nbsp;изменениями, внесенными приказами Росрыболовства <a href="k6clnthook://&amp;nd=243044967&amp;rdk=0&amp;refoid=243046840">от&nbsp;27.12.2022&nbsp;№&nbsp;786</a>,
+<a href="k6clnthook://&amp;nd=243045017&amp;rdk=0&amp;refoid=243046841">от&nbsp;29.12.2022&nbsp;№&nbsp;803</a>
+и&nbsp;<a href="k6clnthook://&amp;nd=243045093&amp;rdk=0&amp;refoid=243046842">№&nbsp;806</a>,
+<a href="k6clnthook://&amp;nd=243045400&amp;rdk=0&amp;refoid=243046843">от&nbsp;27.01.2023&nbsp;№&nbsp;33</a>,
+<a href="k6clnthook://&amp;nd=243045455&amp;rdk=0&amp;refoid=243046844">от&nbsp;02.02.2023&nbsp;№&nbsp;43</a>,
+<a href="k6clnthook://&amp;nd=243045668&amp;rdk=0&amp;refoid=243046845">от&nbsp;20.02.2023&nbsp;№&nbsp;75</a>,
+<a href="k6clnthook://&amp;nd=243045807&amp;rdk=0&amp;refoid=243046846">от&nbsp;10.03.2023&nbsp;№&nbsp;106</a>,
+<a href="k6clnthook://&amp;nd=243045942&amp;rdk=0&amp;refoid=243046847">от&nbsp;22.03.2023&nbsp;№&nbsp;127</a>,
+<a href="k6clnthook://&amp;nd=243045963&amp;rdk=0&amp;refoid=243046848">от&nbsp;24.03.2023&nbsp;№&nbsp;135</a>,
+<a href="k6clnthook://&amp;nd=243045996&amp;rdk=0&amp;refoid=243046849">от&nbsp;31.03.2023&nbsp;№&nbsp;147</a>,
+<a href="k6clnthook://&amp;nd=243046119&amp;rdk=0&amp;refoid=243046850">от&nbsp;06.04.2023&nbsp;№&nbsp;172</a>,
+<a href="k6clnthook://&amp;nd=243046206&amp;rdk=0&amp;refoid=243046851">от&nbsp;14.04.2023&nbsp;№&nbsp;187</a>,
+<a href="k6clnthook://&amp;nd=243046227&amp;rdk=0&amp;refoid=243046852">от&nbsp;17.04.2023&nbsp;№&nbsp;188</a>,
+<a href="k6clnthook://&amp;nd=243046272&amp;rdk=0&amp;refoid=243046853">от&nbsp;18.04.2023&nbsp;№&nbsp;192</a>,
+<a href="k6clnthook://&amp;nd=243046362&amp;rdk=0&amp;refoid=243046854">от&nbsp;20.04.2023&nbsp;№&nbsp;209</a>,
+<a href="k6clnthook://&amp;nd=243046388&amp;rdk=0&amp;refoid=243046855">от&nbsp;20.04.2023&nbsp;№&nbsp;213</a>,
+<a href="k6clnthook://&amp;nd=243046428&amp;rdk=0&amp;refoid=243046856">от&nbsp;24.04.2023&nbsp;№&nbsp;218</a>,
+<a href="k6clnthook://&amp;nd=243046466&amp;rdk=0&amp;refoid=243046857">от&nbsp;26.04.2023&nbsp;№&nbsp;222</a>,
+<a href="k6clnthook://&amp;nd=243046553&amp;rdk=0&amp;refoid=243046858">от&nbsp;02.05.2023&nbsp;№&nbsp;230</a>
+и&nbsp;<a href="k6clnthook://&amp;nd=243046576&amp;rdk=0&amp;refoid=243046859">№&nbsp;231</a>,
+<a href="k6clnthook://&amp;nd=243046623&amp;rdk=0&amp;refoid=243046860">от&nbsp;04.05.2023&nbsp;№&nbsp;240</a>,
+<a href="k6clnthook://&amp;nd=243046696&amp;rdk=0&amp;refoid=243046861">от&nbsp;15.05.2023&nbsp;№&nbsp;254</a>),
+изменение, изложив таблицу&nbsp;№&nbsp;9.8 в&nbsp;новой редакции согласно
+приложению к&nbsp;настоящему приказу.</p>
+
+<p class="MsoNormal">2.&nbsp;Территориальным управлениям Росрыболовства выдачу
+разрешений на&nbsp;добычу (вылов) водных биологических ресурсов, а также
+внесение изменений в&nbsp;такие разрешения осуществлять в&nbsp;соответствии с&nbsp;постановлением
+Правительства Российской Федерации <a href="k6clnthook://&amp;nd=231089428&amp;rdk=0&amp;refoid=243046862">от&nbsp;15&nbsp;ноября&nbsp;2022&nbsp;г.&nbsp;№&nbsp;2066</a>
+&quot;Об&nbsp;оформлении, выдаче, регистрации, приостановлении действия
+и&nbsp;аннулировании разрешений на&nbsp;добычу (вылов) водных биологических
+ресурсов, а&nbsp;также о&nbsp;внесении в&nbsp;них изменений&quot;
+и&nbsp;настоящим приказом.</p>
+
+<p class="MsoNormal">3.&nbsp;Административному управлению (А.Н.&nbsp;Господарев)
+разместить настоящий приказ на&nbsp;официальном сайте Росрыболовства
+в&nbsp;информационно-телекоммуникационной сети Интернет.</p>
+
+<p class="MsoNormal">4.&nbsp;Контроль за&nbsp;исполнением настоящего приказа
+возложить на&nbsp;заместителя руководителя Росрыболовства М.С.&nbsp;Иваника.</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="ab">Заместитель&nbsp;руководителя&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В.И.&nbsp;Соколов</p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:RU;mso-fareast-language:RU;mso-bidi-language:
+AR-SA"><br clear="all" style="page-break-before:always;mso-break-type:section-break">
+</span>
+
+<div class="WordSection2">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:-1.05pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 2.0pt 0cm 2.0pt">
+ <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="994" colspan="12" valign="top" style="width:787.8pt;border:none;
+  border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .25pt;
+  padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="ad">Приложение</p>
+  <p class="ad">к&nbsp;приказу&nbsp;Росрыболовства</p>
+  <p class="ad">от&nbsp;22&nbsp;мая&nbsp;2023&nbsp;г.&nbsp;№&nbsp;274</p>
+  <p class="ad"><o:p>&nbsp;</o:p></p>
+  <p class="ad"><o:p>&nbsp;</o:p></p>
+  <p class="ad">&quot;Таблица&nbsp;№&nbsp;9.8</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="319" colspan="2" valign="top" style="width:221.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Вид&nbsp;водного&nbsp;биологического&nbsp;ресурса<o:p></o:p></span></p>
+  </td>
+  <td width="386" colspan="6" valign="top" style="width:343.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Наименование&nbsp;рыбохозяйственного&nbsp;бассейна<o:p></o:p></span></p>
+  </td>
+  <td width="289" colspan="4" valign="top" style="width:223.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Район&nbsp;добычи&nbsp;(вылова)&nbsp;водного&nbsp;биологического&nbsp;ресурса<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="319" colspan="2" valign="top" style="width:221.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Треска&nbsp;(292)<o:p></o:p></span></p>
+  </td>
+  <td width="386" colspan="6" valign="top" style="width:343.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Дальневосточный&nbsp;рыбохозяйственный&nbsp;бассейн<o:p></o:p></span></p>
+  </td>
+  <td width="289" colspan="4" valign="top" style="width:223.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Северо-Курильская
+  зона&nbsp;(266)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="994" colspan="12" valign="top" style="width:787.8pt;border:none;
+  border-bottom:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .25pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .25pt;
+  padding:0cm 2.0pt 0cm 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="45" rowspan="3" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">№<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">п/п<o:p></o:p></span></p>
+  </td>
+  <td width="275" colspan="2" rowspan="3" valign="top" style="width:188.25pt;
+  border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .25pt;
+  mso-border-left-alt:solid windowtext .25pt;mso-border-alt:solid windowtext .25pt;
+  padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Наименование&nbsp;заявителя<o:p></o:p></span></p>
+  </td>
+  <td width="75" rowspan="3" valign="top" style="width:81.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">ИНН<o:p></o:p></span></p>
+  </td>
+  <td width="250" colspan="3" rowspan="2" valign="top" style="width:192.2pt;border-top:
+  none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Реквизиты&nbsp;договора&nbsp;о&nbsp;закреплении&nbsp;доли&nbsp;квоты<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">добычи&nbsp;(вылова)&nbsp;водных&nbsp;биологических&nbsp;ресурсов<o:p></o:p></span></p>
+  </td>
+  <td width="348" colspan="5" valign="top" style="width:292.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Расчет&nbsp;объема&nbsp;части&nbsp;общего&nbsp;допустимого&nbsp;улова,<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">утвержденного&nbsp;применительно&nbsp;к&nbsp;квоте&nbsp;добычи&nbsp;(вылова)<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">водных&nbsp;биологических&nbsp;ресурсов&nbsp;в&nbsp;морских&nbsp;водах,<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">при&nbsp;осуществлении<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td width="153" colspan="3" valign="top" style="width:141.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">прибрежного&nbsp;рыболовства<o:p></o:p></span></p>
+  </td>
+  <td width="195" colspan="2" valign="top" style="width:151.05pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">промышленного&nbsp;рыболовства<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">№<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">договора<o:p></o:p></span></p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Дата<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">заключения<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">договора<o:p></o:p></span></p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Размер<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">доли&nbsp;в&nbsp;%<o:p></o:p></span></p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Доля&nbsp;в&nbsp;%,<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">указанная<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">в&nbsp;заявлении<o:p></o:p></span></p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Размер&nbsp;части<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">общего<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">допустимого<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">улова,&nbsp;тонн<o:p></o:p></span></p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Доля&nbsp;в&nbsp;%,<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">указанная<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">в&nbsp;договоре<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">или&nbsp;заявлении<o:p></o:p></span></p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">Размер&nbsp;части<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">общего<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">допустимого&nbsp;улова,<o:p></o:p></span></p>
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">тонн<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">1<o:p></o:p></span></p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">3<o:p></o:p></span></p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">5<o:p></o:p></span></p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">6<o:p></o:p></span></p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">7<o:p></o:p></span></p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">8<o:p></o:p></span></p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">9<o:p></o:p></span></p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af2"><span style="font-weight:normal;mso-bidi-font-weight:bold">10<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;Дальрыбпром&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2540078397</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2143</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">30.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,014</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,014</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">108,913</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;Озерновский РКЗ №&nbsp;55&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4108003484</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2145</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,214</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,214</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">130,395</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">3</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;Р/К &quot;Восток-1&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2536010639</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2146</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">30.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6,923</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6,923</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">743,593</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:11">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;Сахалин Лизинг Флот&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6509006140</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2151</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,545</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,545</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">58,538</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:12">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">5</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;СК БСФ&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6515000242</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2152</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">05.09.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">16,769</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">16,769</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2161,370</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:13">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;СК БСФ&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6515000242</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2155</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">07.09.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">15,252</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">15,252</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1965,843</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:14">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">7</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;СК БСФ&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6515000242</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2159</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">05.09.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">15,980</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">15,980</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1716,397</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:15">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">8</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;Тралком&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4909084252</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2147</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">06.09.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,084</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,084</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">9,022</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:16">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">9</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">АО &quot;ЯМСы&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4101153635</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2148</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">14.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4,296</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4,296</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">461,429</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:17">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">10</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ЗАО &quot;Курильский рассвет&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6515001310</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2150</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">27.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">10,763</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">10,763</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1156,044</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:18">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">11</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Алаид&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6515003317</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2153</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">27.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">21,937</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">21,937</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2827,478</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:19">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">12</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Поларис&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4101138370</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2157</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,518</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,518</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">55,638</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:20">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">13</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Росрыбфлот&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">6501237700</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2158</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2,822</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2,822</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">303,108</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:21">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">14</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Сигма Марин Технолоджи&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2723050060</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2160</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,019</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,019</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">109,450</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:22">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">15</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Хабрыба&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">2721247752</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2156</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">30.08.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,339</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,339</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">36,412</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:23">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .25pt;mso-border-alt:
+  solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">16</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">Рыболовецкий колхоз им.&nbsp;В.И.&nbsp;Ленина</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4101016808</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-М-2154</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">05.09.2018</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,474</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,474</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .25pt;mso-border-left-alt:solid windowtext .25pt;
+  mso-border-alt:solid windowtext .25pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">50,912</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:24">
+  <td width="45" valign="top" style="width:33.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">17</p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af">ООО&nbsp;&quot;Камкорн и&nbsp;Ко&quot;</p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">4101020811</p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">ДВ-А-475</p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">31.03.2023</p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,013</p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">-</p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">0,013</p>
+  </td>
+  <td width="108" valign="top" style="width:81.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1">1,396</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:25;mso-yfti-lastrow:yes">
+  <td width="45" valign="top" style="width:33.6pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="275" colspan="2" valign="top" style="width:188.25pt;border:none;
+  mso-border-top-alt:solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="75" valign="top" style="width:81.6pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="95" valign="top" style="width:70.55pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="87" valign="top" style="width:65.5pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="68" valign="top" style="width:56.15pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="61" colspan="2" valign="top" style="width:70.3pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="92" valign="top" style="width:70.8pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="87" valign="top" style="width:69.85pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1"><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="108" valign="bottom" style="width:81.2pt;border:none;mso-border-top-alt:
+  solid windowtext .5pt;background:white;padding:4.25pt 2.0pt 4.25pt 2.0pt">
+  <p class="af1" align="right" style="text-align:right"><span style="font-size:
+  11.0pt">&quot;.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height="0">
+  <td width="45" style="border:none"></td>
+  <td width="275" style="border:none"></td>
+  <td width="1" style="border:none"></td>
+  <td width="75" style="border:none"></td>
+  <td width="95" style="border:none"></td>
+  <td width="87" style="border:none"></td>
+  <td width="68" style="border:none"></td>
+  <td width="59" style="border:none"></td>
+  <td width="2" style="border:none"></td>
+  <td width="92" style="border:none"></td>
+  <td width="87" style="border:none"></td>
+  <td width="108" style="border:none"></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+
+</BODY></HTML>

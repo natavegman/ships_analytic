@@ -1,0 +1,207 @@
+{
+  "source_url": "https://okeanrybflot.ru/",
+  "fetched_at": "2026-06-03T22:07:06.399322+00:00",
+  "company": {
+    "inn": "4100000530",
+    "legal_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+    "group_name": "ГК Океанрыбфлот",
+    "match_score": 100,
+    "match_source": "company_groups_enriched.csv"
+  },
+  "group_companies": [
+    {
+      "inn": "2518003830",
+      "legal_name": "ООО \"РЫБОЗАВОД ВАЛЕНТИН\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "2536341912",
+      "legal_name": "ООО \"СЕЛЬДЬ-Д\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "2536341920",
+      "legal_name": "ООО \"СЕЛЬДЬ-В\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4100000530",
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4100052715",
+      "legal_name": "ООО \"АНТАРЕС 2\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101081250",
+      "legal_name": "ООО \"ВИТЯЗЬ-АВТО\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101145169",
+      "legal_name": "ОАО  \"ФЕНИКС\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101190059",
+      "legal_name": "АО \"УЗОН\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "8203002583",
+      "legal_name": "ООО \"СВК\"",
+      "group_name": "ГК Океанрыбфлот"
+    }
+  ],
+  "quotas_rosrybolovstvo": [
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "28.112",
+      "volume_tons": 3955.185,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 28.112,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 28.112,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "6.415",
+      "volume_tons": 8801.294,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "14.821",
+      "volume_tons": 65909.708,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 6.415,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Сельдь",
+      "quota_type": "Промышленная",
+      "share_pct": "3.689",
+      "volume_tons": 1753.981,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Сельдь",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 3.689,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Треска",
+      "quota_type": "Промышленная",
+      "share_pct": "1.332",
+      "volume_tons": 606.791,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Треска",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 1.332,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    }
+  ],
+  "quota_total_tons_latest_year": 81094.62,
+  "cerber_vessels_count": 15,
+  "vessels": [
+    {
+      "name": "Океанрыбфлот",
+      "imo": 8721052,
+      "imo_source": "gfw_cache",
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "source": "cerberus"
+    }
+  ],
+  "vessels_with_imo": 1,
+  "analysis": {
+    "competitor_name": "АО «ОКЕАНРЫБФЛОТ»",
+    "target_species": [
+      "минтай",
+      "кальмар",
+      "сельдь"
+    ],
+    "fishing_basins": [
+      "Охотское море",
+      "Берингово море"
+    ],
+    "estimated_quota_tons": null,
+    "active_vessels": [],
+    "vessel_dislocation": [],
+    "market_threat_score": 3,
+    "strategic_summary": "АО «ОКЕАНРЫБФЛОТ» является одним из крупнейших рыбопромышленных предприятий РФ, работающим в Охотском и Беринговом морях. Компания осваивает квоты на минтай, кальмара и сельдь, а также участвует в переработке лососёвых пород. Входные данные не содержат информации о конкретных объёмах квот и названиях активных судов.",
+    "facts_from_source": [
+      "АО «ОКЕАНРЫБФЛОТ» – одно из крупнейших рыбопромышленных предприятий Российской Федерации.",
+      "14 больших морозильных рыболовных траулеров (БМРТ) трудятся в Охотском и Беринговом морях.",
+      "Компания осваивает выделенные государством квоты на минтай, кальмара и сельдь.",
+      "Траулеры компании ежегодно участвуют в «красной» путине.",
+      "Все суда компании оснащены сертифицированным природоохранным оборудованием."
+    ],
+    "missing_data": [
+      "объём квот в тоннах",
+      "названия активных судов",
+      "ИМО судов"
+    ],
+    "vessels": [],
+    "vessels_with_imo": 0,
+    "vessels_without_imo": 0
+  },
+  "db_sync": {
+    "upserted": 0,
+    "skipped_no_imo": 0,
+    "errors": 1
+  },
+  "data_sources": {
+    "company_groups": "/Users/natalia/Code/Quotas_analytic/data/company_groups.csv",
+    "company_groups_enriched": "/Users/natalia/Code/Quotas_analytic/data/company_groups_enriched.csv",
+    "quota_summary": "/Users/natalia/Code/Quotas_analytic/output/quota_summary.csv",
+    "cerberus_export": "/Users/natalia/Code/Quotas_analytic/data/cerberus_export.csv"
+  }
+}

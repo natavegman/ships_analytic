@@ -1,0 +1,1177 @@
+{
+  "source_url": "https://okeanrybflot.ru/dislocation/",
+  "fetched_at": "2026-06-03T22:21:39.077257+00:00",
+  "company": {
+    "inn": "4100000530",
+    "legal_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+    "group_name": "ГК Океанрыбфлот",
+    "match_score": 100,
+    "match_source": "company_groups_enriched.csv"
+  },
+  "group_companies": [
+    {
+      "inn": "2518003830",
+      "legal_name": "ООО \"РЫБОЗАВОД ВАЛЕНТИН\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "2536341912",
+      "legal_name": "ООО \"СЕЛЬДЬ-Д\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "2536341920",
+      "legal_name": "ООО \"СЕЛЬДЬ-В\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4100000530",
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4100052715",
+      "legal_name": "ООО \"АНТАРЕС 2\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101081250",
+      "legal_name": "ООО \"ВИТЯЗЬ-АВТО\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101145169",
+      "legal_name": "ОАО  \"ФЕНИКС\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "4101190059",
+      "legal_name": "АО \"УЗОН\"",
+      "group_name": "ГК Океанрыбфлот"
+    },
+    {
+      "inn": "8203002583",
+      "legal_name": "ООО \"СВК\"",
+      "group_name": "ГК Океанрыбфлот"
+    }
+  ],
+  "quotas_rosrybolovstvo": [
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "28.112",
+      "volume_tons": 3955.185,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 28.112,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Кальмар",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 28.112,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "6.415",
+      "volume_tons": 8801.294,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "14.821",
+      "volume_tons": 65909.708,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Минтай",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 6.415,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Сельдь",
+      "quota_type": "Промышленная",
+      "share_pct": "3.689",
+      "volume_tons": 1753.981,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Сельдь",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 3.689,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Треска",
+      "quota_type": "Промышленная",
+      "share_pct": "1.332",
+      "volume_tons": 606.791,
+      "legal_name": "АО \"ОКЕАНРЫБФЛОТ\""
+    },
+    {
+      "year": "2026",
+      "basin": "Дальневосточный",
+      "species": "Треска",
+      "quota_type": "Промышленная",
+      "share_pct": "",
+      "volume_tons": 1.332,
+      "legal_name": "АО «ОКЕАНРЫБФЛОТ»"
+    }
+  ],
+  "quota_total_tons_latest_year": 81094.62,
+  "cerber_vessels_count": 14,
+  "group_inns": [
+    "2518003830",
+    "2536341912",
+    "2536341920",
+    "4100000530",
+    "4100052715",
+    "4101081250",
+    "4101145169",
+    "4101190059",
+    "8203002583"
+  ],
+  "group_fleet_count": 19,
+  "vessels_on_dispatcher_count": 19,
+  "vessels": [
+    {
+      "name": "XX Съезд ВЛКСМ",
+      "imo": 8721052,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4858ea8e4-4822-cb70-d4a8-e536ee9bbedc",
+      "gfw_name": "XX SYEZD VLKSM",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "XXVII Съезд КПСС",
+      "imo": 8721040,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bd99d0d3f-f704-9a0d-6350-517fe757c321",
+      "gfw_name": "XXVII SYEZD KPSS",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 29.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Александр Ксенофонтов",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 10.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Анатолий Ларин",
+      "imo": 8516641,
+      "imo_source": "gfw_api",
+      "status": "транспортный рейс",
+      "location": "п.ПТР",
+      "end_date": "09 сентября 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Анатолий Пономарев",
+      "imo": 8721246,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "8f59c9926-65de-8292-d47c-6b2c41d8fa0d",
+      "gfw_name": "ANATOLIY PONOMAREV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Чжоушань",
+      "end_date": "до 07.07.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Бакланово",
+      "imo": 7945663,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4a4030a1d-dc04-5af4-26de-399174889aa5",
+      "gfw_name": "BAKLANOVO",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п. Чжоушань",
+      "end_date": "до 12.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Бухта Русская",
+      "status": "транспортный рейс",
+      "location": "п.Пусан",
+      "end_date": "29 мая 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Владимир Бабич",
+      "imo": 8721210,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "af3214e67-7aa7-e329-90ac-0ca138843408",
+      "gfw_name": "VLADIMIR BABICH",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Владимир Бирюков",
+      "imo": 9910674,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "de2424ae7-762a-81d8-03a1-815ff9936117",
+      "gfw_name": "VLADIMIR BIRYUKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Пусан",
+      "end_date": "до 12.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Геннадий Водолазский",
+      "status": "ремонт",
+      "location": "п.Чжоушань",
+      "end_date": "до 20 июня 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Георгий Мещеряков",
+      "imo": 9869411,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "43b637fd9-94d8-0be2-5dfa-4ea07aba77b7",
+      "gfw_name": "GEORGIYMESHCHERYAKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Пусан",
+      "end_date": "до 19.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Иртышск",
+      "imo": 8331534,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "0b811abad-d586-de5f-4a87-4f3a88f977be",
+      "gfw_name": "IRTYSHSK",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "СКЭ",
+      "end_date": "до 03.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Канариан Рифер",
+      "status": "транспортный рейс",
+      "location": "следует в п.Корсаков",
+      "end_date": "10 июня 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Матвей Кузьмин",
+      "imo": 8721117,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bfbf5339f-ffba-9c66-947a-d62790ce37f4",
+      "gfw_name": "MATVEY KUZMIN",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 05.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Министр Ишков",
+      "imo": 8721105,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "vessel_type": "СТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "7d66294cb-b2f7-6b8b-554d-6ef6c7a365e9",
+      "gfw_name": "MINISTR ISHKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 10.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Мыс Олюторский",
+      "imo": 8859938,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "313386142-2137-24f7-b33d-9e2695250afa",
+      "gfw_name": "MYS OLYUTORSKIY",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Океанрыбфлот",
+      "imo": 8721052,
+      "imo_source": "gfw_cache",
+      "owner_inn": "4100000530",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОКЕАНРЫБФЛОТ\"",
+      "gfw_id": "4858ea8e4-4822-cb70-d4a8-e536ee9bbedc",
+      "gfw_name": "XX SYEZD VLKSM",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "site_dispatcher"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Поллукс",
+      "imo": 8834562,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "810ec8c29-9310-0635-2da8-8ad5e98afe46",
+      "gfw_name": "POLLUKS",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Хотин",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "234b40440-01c4-d961-7dff-f17e5623d734",
+      "gfw_name": "HO TIN",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "imo": 8331546,
+      "imo_source": "gfw_api",
+      "status": "промысел",
+      "location": "СКЭ",
+      "end_date": "до 01.09.26г",
+      "on_dispatcher": true
+    }
+  ],
+  "vessels_on_dispatcher": [
+    {
+      "name": "XX Съезд ВЛКСМ",
+      "imo": 8721052,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4858ea8e4-4822-cb70-d4a8-e536ee9bbedc",
+      "gfw_name": "XX SYEZD VLKSM",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "XXVII Съезд КПСС",
+      "imo": 8721040,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bd99d0d3f-f704-9a0d-6350-517fe757c321",
+      "gfw_name": "XXVII SYEZD KPSS",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 29.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Александр Ксенофонтов",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 10.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Анатолий Ларин",
+      "imo": 8516641,
+      "imo_source": "gfw_api",
+      "status": "транспортный рейс",
+      "location": "п.ПТР",
+      "end_date": "09 сентября 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Анатолий Пономарев",
+      "imo": 8721246,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "8f59c9926-65de-8292-d47c-6b2c41d8fa0d",
+      "gfw_name": "ANATOLIY PONOMAREV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Чжоушань",
+      "end_date": "до 07.07.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Бакланово",
+      "imo": 7945663,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4a4030a1d-dc04-5af4-26de-399174889aa5",
+      "gfw_name": "BAKLANOVO",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п. Чжоушань",
+      "end_date": "до 12.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Бухта Русская",
+      "status": "транспортный рейс",
+      "location": "п.Пусан",
+      "end_date": "29 мая 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Владимир Бабич",
+      "imo": 8721210,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "af3214e67-7aa7-e329-90ac-0ca138843408",
+      "gfw_name": "VLADIMIR BABICH",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Владимир Бирюков",
+      "imo": 9910674,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "de2424ae7-762a-81d8-03a1-815ff9936117",
+      "gfw_name": "VLADIMIR BIRYUKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Пусан",
+      "end_date": "до 12.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Геннадий Водолазский",
+      "status": "ремонт",
+      "location": "п.Чжоушань",
+      "end_date": "до 20 июня 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Георгий Мещеряков",
+      "imo": 9869411,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "43b637fd9-94d8-0be2-5dfa-4ea07aba77b7",
+      "gfw_name": "GEORGIYMESHCHERYAKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "ремонт",
+      "location": "п.Пусан",
+      "end_date": "до 19.06.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Иртышск",
+      "imo": 8331534,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "0b811abad-d586-de5f-4a87-4f3a88f977be",
+      "gfw_name": "IRTYSHSK",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "СКЭ",
+      "end_date": "до 03.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Канариан Рифер",
+      "status": "транспортный рейс",
+      "location": "следует в п.Корсаков",
+      "end_date": "10 июня 2026г",
+      "on_dispatcher": true,
+      "sources": [
+        "site_dispatcher"
+      ]
+    },
+    {
+      "name": "Матвей Кузьмин",
+      "imo": 8721117,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bfbf5339f-ffba-9c66-947a-d62790ce37f4",
+      "gfw_name": "MATVEY KUZMIN",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 05.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Министр Ишков",
+      "imo": 8721105,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "vessel_type": "СТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "7d66294cb-b2f7-6b8b-554d-6ef6c7a365e9",
+      "gfw_name": "MINISTR ISHKOV",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "status": "промысел",
+      "location": "БМЭ",
+      "end_date": "до 10.09.26г",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Мыс Олюторский",
+      "imo": 8859938,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "313386142-2137-24f7-b33d-9e2695250afa",
+      "gfw_name": "MYS OLYUTORSKIY",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Океанрыбфлот",
+      "imo": 8721052,
+      "imo_source": "gfw_cache",
+      "owner_inn": "4100000530",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОКЕАНРЫБФЛОТ\"",
+      "gfw_id": "4858ea8e4-4822-cb70-d4a8-e536ee9bbedc",
+      "gfw_name": "XX SYEZD VLKSM",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "site_dispatcher"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": true
+    },
+    {
+      "name": "Поллукс",
+      "imo": 8834562,
+      "imo_source": "vessels_csv",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "810ec8c29-9310-0635-2da8-8ad5e98afe46",
+      "gfw_name": "POLLUKS",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "on_dispatcher": true
+    },
+    {
+      "name": "Хотин",
+      "owner_inn": "4100000530",
+      "owner_name": "АО \"ОКЕАНРЫБФЛОТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "234b40440-01c4-d961-7dff-f17e5623d734",
+      "gfw_name": "HO TIN",
+      "sources": [
+        "group_registry",
+        "site_dispatcher"
+      ],
+      "imo": 8331546,
+      "imo_source": "gfw_api",
+      "status": "промысел",
+      "location": "СКЭ",
+      "end_date": "до 01.09.26г",
+      "on_dispatcher": true
+    }
+  ],
+  "vessels_with_imo": 15,
+  "vessels_without_imo": [
+    "Александр Ксенофонтов",
+    "Бухта Русская",
+    "Геннадий Водолазский",
+    "Канариан Рифер"
+  ],
+  "analysis": {
+    "competitor_name": "Океанрыбфлот",
+    "target_species": [],
+    "fishing_basins": [],
+    "estimated_quota_tons": null,
+    "active_vessels": [
+      {
+        "name": "Бакланово",
+        "imo": 7945663,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "20 Съезд ВЛКСМ",
+        "imo": 8721052,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Министр Ишков",
+        "imo": 8721105,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Александр Ксенофонтов",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "27 Съезд КПСС",
+        "imo": 8721040,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Поллукс",
+        "imo": 8834562,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Матвей Кузьмин",
+        "imo": 8721117,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Хотин",
+        "imo": 8331546,
+        "imo_source": "gfw_api"
+      },
+      {
+        "name": "Владимир Бабич",
+        "imo": 8721210,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Георгий Мещеряков",
+        "imo": 9869411,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Пономарев",
+        "imo": 8721246,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Владимир Бирюков",
+        "imo": 9910674,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Мыс Олюторский",
+        "imo": 8859938,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Иртышск",
+        "imo": 8331534,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Ларин",
+        "imo": 8516641,
+        "imo_source": "gfw_api"
+      },
+      {
+        "name": "Бухта Русская",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Канариан Рифер",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Геннадий Водолазский",
+        "imo": null,
+        "imo_source": null
+      }
+    ],
+    "vessel_dislocation": [
+      {
+        "name": "Бакланово",
+        "status": "ремонт",
+        "location": "п. Чжоушань",
+        "end_date": "до 12.06.26г",
+        "imo": 7945663,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Министр Ишков",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 10.09.26г",
+        "imo": 8721105,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Александр Ксенофонтов",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 10.09.26г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "27 Съезд КПСС",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 29.09.26г",
+        "imo": 8721040,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Матвей Кузьмин",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 05.09.26г",
+        "imo": 8721117,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Хотин",
+        "status": "промысел",
+        "location": "СКЭ",
+        "end_date": "до 01.09.26г",
+        "imo": 8331546,
+        "imo_source": "gfw_api"
+      },
+      {
+        "name": "Георгий Мещеряков",
+        "status": "ремонт",
+        "location": "п.Пусан",
+        "end_date": "до 19.06.26г",
+        "imo": 9869411,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Пономарев",
+        "status": "ремонт",
+        "location": "п.Чжоушань",
+        "end_date": "до 07.07.26г",
+        "imo": 8721246,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Владимир Бирюков",
+        "status": "ремонт",
+        "location": "п.Пусан",
+        "end_date": "до 12.06.26г",
+        "imo": 9910674,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Иртышск",
+        "status": "промысел",
+        "location": "СКЭ",
+        "end_date": "до 03.09.26г",
+        "imo": 8331534,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Ларин",
+        "status": "транспортный рейс",
+        "location": "п.ПТР",
+        "end_date": "09 сентября 2026г",
+        "imo": 8516641,
+        "imo_source": "gfw_api"
+      },
+      {
+        "name": "Бухта Русская",
+        "status": "транспортный рейс",
+        "location": "п.Пусан",
+        "end_date": "29 мая 2026г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Канариан Рифер",
+        "status": "транспортный рейс",
+        "location": "следует в п.Корсаков",
+        "end_date": "10 июня 2026г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Геннадий Водолазский",
+        "status": "ремонт",
+        "location": "п.Чжоушань",
+        "end_date": "до 20 июня 2026г",
+        "imo": null,
+        "imo_source": null
+      }
+    ],
+    "market_threat_score": 2,
+    "strategic_summary": "АО 'Океанрыбфлот' имеет активный флот, часть которого находится на ремонте, а часть на промысле. Конкретные объекты лова и бассейны не указаны. Объём квот в тоннах не указан.",
+    "facts_from_source": [
+      "Камчатские огнеборцы тренировались тушить БАТМ «Министр Ишков» во время пожарно-тактических учений",
+      "Сварщики «Океанрыбфлота» подтвердили звание лучших на Камчатке",
+      "Сварщики «Океанрыбфлота» снова борются за звание лучших на Камчатке",
+      "Дислокация судов АО 'Океанрыбфлот' по состоянию на 2 июня 2026 г.",
+      "Сроки окончания рейса у судов могут изменяться"
+    ],
+    "missing_data": [
+      "объём квот в тоннах",
+      "объекты лова",
+      "бассейны/моря"
+    ],
+    "vessels": [
+      {
+        "name": "Бакланово",
+        "status": "ремонт",
+        "location": "п. Чжоушань",
+        "end_date": "до 12.06.26г",
+        "imo": 7945663,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Министр Ишков",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 10.09.26г",
+        "imo": 8721105,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Александр Ксенофонтов",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 10.09.26г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "27 Съезд КПСС",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 29.09.26г",
+        "imo": 8721040,
+        "imo_source": "vessels_csv",
+        "registry_name": "XXVII Съезд КПСС"
+      },
+      {
+        "name": "Матвей Кузьмин",
+        "status": "промысел",
+        "location": "БМЭ",
+        "end_date": "до 05.09.26г",
+        "imo": 8721117,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Хотин",
+        "status": "промысел",
+        "location": "СКЭ",
+        "end_date": "до 01.09.26г",
+        "imo": 8331546,
+        "imo_source": "gfw_api",
+        "registry_name": "KHOTIN"
+      },
+      {
+        "name": "Георгий Мещеряков",
+        "status": "ремонт",
+        "location": "п.Пусан",
+        "end_date": "до 19.06.26г",
+        "imo": 9869411,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Пономарев",
+        "status": "ремонт",
+        "location": "п.Чжоушань",
+        "end_date": "до 07.07.26г",
+        "imo": 8721246,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Владимир Бирюков",
+        "status": "ремонт",
+        "location": "п.Пусан",
+        "end_date": "до 12.06.26г",
+        "imo": 9910674,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Иртышск",
+        "status": "промысел",
+        "location": "СКЭ",
+        "end_date": "до 03.09.26г",
+        "imo": 8331534,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Анатолий Ларин",
+        "status": "транспортный рейс",
+        "location": "п.ПТР",
+        "end_date": "09 сентября 2026г",
+        "imo": 8516641,
+        "imo_source": "gfw_api",
+        "registry_name": "ANATOLIY LARIN"
+      },
+      {
+        "name": "Бухта Русская",
+        "status": "транспортный рейс",
+        "location": "п.Пусан",
+        "end_date": "29 мая 2026г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Канариан Рифер",
+        "status": "транспортный рейс",
+        "location": "следует в п.Корсаков",
+        "end_date": "10 июня 2026г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "Геннадий Водолазский",
+        "status": "ремонт",
+        "location": "п.Чжоушань",
+        "end_date": "до 20 июня 2026г",
+        "imo": null,
+        "imo_source": null
+      },
+      {
+        "name": "20 Съезд ВЛКСМ",
+        "imo": 8721052,
+        "imo_source": "vessels_csv",
+        "registry_name": "XX Съезд ВЛКСМ"
+      },
+      {
+        "name": "Поллукс",
+        "imo": 8834562,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Владимир Бабич",
+        "imo": 8721210,
+        "imo_source": "vessels_csv"
+      },
+      {
+        "name": "Мыс Олюторский",
+        "imo": 8859938,
+        "imo_source": "vessels_csv"
+      }
+    ],
+    "vessels_with_imo": 14,
+    "vessels_without_imo": 4
+  },
+  "db_sync": {
+    "upserted": 0,
+    "skipped_no_imo": 0,
+    "errors": 0
+  },
+  "data_sources": {
+    "company_groups": "/Users/natalia/Code/Quotas_analytic/data/company_groups.csv",
+    "company_groups_enriched": "/Users/natalia/Code/Quotas_analytic/data/company_groups_enriched.csv",
+    "quota_summary": "/Users/natalia/Code/Quotas_analytic/output/quota_summary.csv",
+    "cerberus_export": "/Users/natalia/Code/Quotas_analytic/data/cerberus_export.csv",
+    "vessels_csv": "/Users/natalia/Code/Quotas_analytic/notion_import/vessels.csv",
+    "gfw_vessels_json": "/Users/natalia/Code/Quotas_analytic/data/gfw_our_vessels.json"
+  }
+}

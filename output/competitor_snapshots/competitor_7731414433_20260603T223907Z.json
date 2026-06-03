@@ -1,0 +1,1087 @@
+{
+  "source_url": "https://russianfishery.ru/",
+  "fetched_at": "2026-06-03T22:39:07.885542+00:00",
+  "company": {
+    "inn": "7731414433",
+    "legal_name": "ООО \"РУССКАЯ РЫБОПРОМЫШЛЕННАЯ КОМПАНИЯ\"",
+    "group_name": "ГК РРПК",
+    "match_score": 100,
+    "match_source": "url_hint:russianfishery.ru"
+  },
+  "group_companies": [
+    {
+      "inn": "7731414433",
+      "legal_name": "ООО \"РУССКАЯ РЫБОПРОМЫШЛЕННАЯ КОМПАНИЯ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2521015391",
+      "legal_name": "ООО \"РУССКИЙ МИНТАЙ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536053382",
+      "legal_name": "АО ТУРНИФ",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536306467",
+      "legal_name": "ООО \"НОВЫЙ СЕЙВАЛ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536306523",
+      "legal_name": "ООО \"МИНТАЙ ПЕРВЫЙ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536306530",
+      "legal_name": "ООО \"НОВОСТРОЙ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536306555",
+      "legal_name": "ООО \"РРПК ВОСТОК\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536312196",
+      "legal_name": "ООО \"АТЛАНТИК КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536312206",
+      "legal_name": "ООО \"КАМЧАТКА КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536312213",
+      "legal_name": "ООО \"ПАСИФИК КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536319762",
+      "legal_name": "ООО \"ДАЛЬНЕВОСТОЧНЫЙ КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536324554",
+      "legal_name": "ООО \"В-КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536324579",
+      "legal_name": "ООО \"П-КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536334993",
+      "legal_name": "ООО \"ВЛАДКРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536335002",
+      "legal_name": "ООО \"БЕРИНГ КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536347343",
+      "legal_name": "ООО \"МИНТАЙ-Т\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536347350",
+      "legal_name": "ООО \"МИНТАЙ-В\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536347375",
+      "legal_name": "ООО \"МИНТАЙ-РМ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536347390",
+      "legal_name": "ООО \"МИНТАЙ-И\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2536347400",
+      "legal_name": "ООО \"МИНТАЙ-Д\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2537008664",
+      "legal_name": "АО \"ИНТРАРОС\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2538021453",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2540199962",
+      "legal_name": "АО  \"ДМП-РМ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "2721023255",
+      "legal_name": "ООО \"ВОСТОКРЫБПРОМ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "4100052440",
+      "legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МИНТАЙ-РК\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "4101016808",
+      "legal_name": "РК ИМ. В.И. ЛЕНИНА",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "5190080138",
+      "legal_name": "ООО \"Б-КРАБ\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "6505010379",
+      "legal_name": "ООО \"РКХ \"САХАЛИН\"",
+      "group_name": "ГК РРПК"
+    },
+    {
+      "inn": "7701384421",
+      "legal_name": "ООО \"РМД ЮВА 1\"",
+      "group_name": "ГК РРПК"
+    }
+  ],
+  "quotas_rosrybolovstvo": [],
+  "quota_total_tons_latest_year": null,
+  "cerber_vessels_count": 5,
+  "group_inns": [
+    "7731414433",
+    "2521015391",
+    "2536053382",
+    "2536306467",
+    "2536306523",
+    "2536306530",
+    "2536306555",
+    "2536312196",
+    "2536312206",
+    "2536312213",
+    "2536319762",
+    "2536324554",
+    "2536324579",
+    "2536334993",
+    "2536335002",
+    "2536347343",
+    "2536347350",
+    "2536347375",
+    "2536347390",
+    "2536347400",
+    "2537008664",
+    "2538021453",
+    "2540199962",
+    "2721023255",
+    "4100052440",
+    "4101016808",
+    "5190080138",
+    "6505010379",
+    "7701384421"
+  ],
+  "group_fleet_count": 49,
+  "vessels_on_dispatcher_count": 0,
+  "vessels": [
+    {
+      "name": "Алаид",
+      "imo": 8819287,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c7024248d-d8bd-d551-9558-e10566d46e1a",
+      "gfw_name": "LUSAY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Александр Сапожников",
+      "owner_inn": "2536312206",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАМЧАТКА КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 9945215,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Алестар",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8826412,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Алеут",
+      "owner_inn": "2536319762",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДАЛЬНЕВОСТОЧНЫЙ КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "7ee31619b-b316-d56d-a6d5-3af6c10f127b",
+      "gfw_name": "ALEUT",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 9600138,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Алчан",
+      "imo": 8747329,
+      "imo_source": "gfw_cache",
+      "owner_inn": "5190080138",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"Б-КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4d9823c5d-dd37-e2a7-6f42-21817086896c",
+      "gfw_name": "ALCHAN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Амазар",
+      "imo": 9109457,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "50626c6ff-f829-92d1-c770-25a673f00da4",
+      "gfw_name": "AMAZAR",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Амур",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "3b6af3532-29db-904d-83cb-6f7dac40b3a8",
+      "gfw_name": "AMUR",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8910665,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Анабар",
+      "owner_inn": "2536312196",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТЛАНТИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c843cf477-7109-eba5-2887-f0fa1219b641",
+      "gfw_name": "ANABAR",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8977546,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Артур",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "16890ebc4-42af-4eb6-dccf-8c89575a1b1a",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 9223588,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Асача",
+      "imo": 7832816,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "222a45291-199b-ff15-12e7-b117f8df5c76",
+      "gfw_name": "ASACHA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Аскольд",
+      "owner_inn": "2536319762",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДАЛЬНЕВОСТОЧНЫЙ КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "cdbc9cd40-0ffa-92a5-e440-496794c744cf",
+      "gfw_name": "ASKOLD",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 9816488,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Аякс",
+      "owner_inn": "2536334993",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВЛАДКРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "23822438a-acd8-2f00-5992-1b46f58de23c",
+      "gfw_name": "AYAKS",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8708945,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Багратион",
+      "owner_inn": "2537008664",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНТРАРОС\"",
+      "vessel_type": "РТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "81916b1cc-c791-82d6-06e5-02ae59067e10",
+      "gfw_name": "BAGRATION",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8031158,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Березина",
+      "owner_inn": "2537008664",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНТРАРОС\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "b1b72b533-3bdc-ff9f-32a6-1d43ed694d36",
+      "gfw_name": "BEREZINA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8878116,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Бикин",
+      "imo": 8352162,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312196",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТЛАНТИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "df8f53dfc-c22b-2d91-07d2-0e9fe4ce99f8",
+      "gfw_name": "BIKIN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Бородино",
+      "imo": 8831649,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2537008664",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНТРАРОС\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4070b7b88-8a17-1815-4e6a-f14ebd9451ff",
+      "gfw_name": "BORODINO",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Приморский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Вилюй",
+      "imo": 8805303,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "d78e179a2-207c-fd6f-34fc-fead0a9d717e",
+      "gfw_name": "VILYUY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Витим",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "665b5daf2-2613-9de8-2515-e797c8bbd224",
+      "gfw_name": "Z/S VITIM",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8954910,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Владивосток",
+      "imo": 8907474,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536053382",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТИХООКЕАНСКОЕ УПРАВЛЕНИЕ ПРОМЫСЛОВОЙ РАЗВЕДКИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКОГО ФЛОТА\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "ff4d3fa5f-f0bd-285a-9417-8c06e0f49d0f",
+      "gfw_name": "VLADIVOSTOK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Гамов",
+      "imo": 9279460,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536334993",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВЛАДКРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "ba493ea1b-b441-3cbb-23f1-0b6195a9d990",
+      "gfw_name": "GAMOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Герои Широнинцы",
+      "imo": 7832945,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2721023255",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОКРЫБПРОМ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "7ff99d590-0692-0cb0-8a39-23e6f412a669",
+      "gfw_name": "HIRONIN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Горин",
+      "imo": 8661202,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "86561fca6-6714-afb8-8723-4d6694ff876e",
+      "gfw_name": "GORIN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Енисей",
+      "owner_inn": "2536312196",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТЛАНТИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4ba2cedad-dcf9-1562-0a90-9cba39897abf",
+      "gfw_name": "ENISEY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8811613,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Иркут",
+      "imo": 9128714,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312206",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАМЧАТКА КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "2ca1c3012-2271-15cd-ea08-2e536333f615",
+      "gfw_name": "IRKUT",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Ихтиолог",
+      "imo": 8804309,
+      "imo_source": "gfw_cache",
+      "owner_inn": "4101016808",
+      "owner_name": "РЫБОЛОВЕЦКИЙ КОЛХОЗ ИМ. В.И. ЛЕНИНА",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "2702b168b-bcca-c489-f62b-d26d13183924",
+      "gfw_name": "IKHTIOLOG",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Александров",
+      "imo": 9937139,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "53ac792dd-df9b-c6ce-2e40-6e9d68905649",
+      "gfw_name": "KAPITAN ALEKSANDROV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Дудник",
+      "imo": 9930478,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312206",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАМЧАТКА КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "87e645cdc-cb31-8556-df1d-4af0ce7a0e31",
+      "gfw_name": "KAPITAN DUDNIK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Егоров",
+      "imo": 9937141,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312206",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАМЧАТКА КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "e7a4b1556-6204-5caf-ecdf-3e22b4b7e3ef",
+      "gfw_name": "KAPITAN EGOROV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Манжолин",
+      "imo": 9930466,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "09775ca96-69be-5650-ef63-bf4c90cd807f",
+      "gfw_name": "KAPITAN MANZHOLIN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Мартынов",
+      "imo": 9901166,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536306467",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЙ СЕЙВАЛ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "5a7065a7e-e280-19c7-6f8a-a534ec71a47e",
+      "gfw_name": "KAPITAN MARTYNOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Олейничук",
+      "imo": 8625961,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536053382",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТИХООКЕАНСКОЕ УПРАВЛЕНИЕ ПРОМЫСЛОВОЙ РАЗВЕДКИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКОГО ФЛОТА\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "8dba3b898-81f8-c5dc-5693-56da3b9caf82",
+      "gfw_name": "KAPITAN OLEYNICHUK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Сковпен",
+      "imo": 9944883,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312196",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТЛАНТИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "d08c12330-0dcc-e612-b8ed-a25dba6cc380",
+      "gfw_name": "KAPITAN SKOVPEN",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Фирсов",
+      "imo": 9937153,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "b67f644fd-dfe8-3593-a6a6-760da1cbc05c",
+      "gfw_name": "KAPITAN FIRSOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Лазурит",
+      "imo": 8832590,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536319762",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДАЛЬНЕВОСТОЧНЫЙ КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "fbd0057b6-6ed1-0e09-a163-daeba5098b4a",
+      "gfw_name": "LAZURIT",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Механик Маслак",
+      "imo": 9878333,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536306530",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВОСТРОЙ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "8ba6795aa-a2e2-7ef0-a3b5-8c5cb6e34888",
+      "gfw_name": "MEKHANIK MASLAK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Механик Сизов",
+      "imo": 9896153,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536306555",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РРПК ВОСТОК\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "2b08610ad-d539-e1b3-387f-416d637d82fc",
+      "gfw_name": "MEKHANIK SIZOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Басаргина",
+      "imo": 8423557,
+      "imo_source": "gfw_cache",
+      "owner_inn": "7701384421",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РМД ЮВА 1\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "eda00a02c-cda6-e000-b655-2867811de4ad",
+      "gfw_name": "MYS BASARGINA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Назимов",
+      "imo": 8662634,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536334993",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВЛАДКРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "391a774c1-1232-308c-ef48-2a963eb5ee55",
+      "gfw_name": "NAZIMOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Нефритовый",
+      "imo": 9258038,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536319762",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДАЛЬНЕВОСТОЧНЫЙ КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c6543dfcd-dd8a-40df-7409-98cfba4145ca",
+      "gfw_name": "NEFRITOVYY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Новик",
+      "imo": 9344605,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536334993",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВЛАДКРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "f2ba05925-539a-4659-da9b-4474b91482bc",
+      "gfw_name": "NOVIK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Новоуральск",
+      "imo": 7943184,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2721023255",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОКРЫБПРОМ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "938a3f051-15ea-794f-f2f0-f5dd876df3e2",
+      "gfw_name": "NOVO 23",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Хабаровский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Павел Панин",
+      "imo": 7703998,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2721023255",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОКРЫБПРОМ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "d9048d4ec-c1fd-fc76-fde6-fe4740ad5863",
+      "gfw_name": "PAVEL PANIN",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Приморский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Пионер Николаева",
+      "imo": 7942180,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536053382",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТИХООКЕАНСКОЕ УПРАВЛЕНИЕ ПРОМЫСЛОВОЙ РАЗВЕДКИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКОГО ФЛОТА\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "cb4c5bb15-5f68-ac38-4116-9ec72739de6f",
+      "gfw_name": "PIONER NIKOLAEVA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Планета",
+      "owner_inn": "4101016808",
+      "owner_name": "РЫБОЛОВЕЦКИЙ КОЛХОЗ ИМ. В.И. ЛЕНИНА",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c3b5cf01b-b09e-8938-8895-99f81844d873",
+      "gfw_name": "PLANETA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8883991,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Поронай",
+      "imo": 8811807,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312206",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАМЧАТКА КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "169f5c609-97e2-4e36-02d5-4e3a039ff107",
+      "gfw_name": "PORONAY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Сартанг",
+      "imo": 8875815,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "04ca61832-26ee-fa5d-3e23-fd223febd62b",
+      "gfw_name": "SARTANG",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Сергей Новоселов",
+      "owner_inn": "4101016808",
+      "owner_name": "РЫБОЛОВЕЦКИЙ КОЛХОЗ ИМ. В.И. ЛЕНИНА",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Сероглазка",
+      "imo": 9076454,
+      "imo_source": "gfw_cache",
+      "owner_inn": "4101016808",
+      "owner_name": "РЫБОЛОВЕЦКИЙ КОЛХОЗ ИМ. В.И. ЛЕНИНА",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "a1f48d885-5ceb-f092-dbe1-57187f865ca0",
+      "gfw_name": "SEROGLAZKA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Тунгир",
+      "imo": 8651453,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2536312213",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАСИФИК КРАБ\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "8d668176d-d191-ce06-ba1b-0aeb7926041f",
+      "gfw_name": "TUNGIR",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    }
+  ],
+  "vessels_on_dispatcher": [],
+  "vessels_with_imo": 48,
+  "vessels_without_imo": [
+    "Сергей Новоселов"
+  ],
+  "analysis": {
+    "competitor_name": "Русская Рыбопромышленная Компания",
+    "target_species": [
+      "минтай"
+    ],
+    "fishing_basins": [
+      "Охотское море",
+      "Берингово море"
+    ],
+    "estimated_quota_tons": null,
+    "active_vessels": [],
+    "vessel_dislocation": [],
+    "market_threat_score": 3,
+    "strategic_summary": "Русская Рыбопромышленная Компания (РРПК) является одним из мировых лидеров по добыче и переработке минтая. Компания активно развивает устойчивое развитие, включая обновление флота и снижение выбросов CO2. Основные акватории промысла — Охотское и Берингово моря. Объём квот в тоннах не указан в источнике.",
+    "facts_from_source": [
+      "Русская Рыбопромышленная Компания — один из лидеров по добыче минтая в России и мире.",
+      "Компания ведет промысел в акватории Тихого океана, добывая рыбу в природной среде его обитания.",
+      "Охотское и Берингово моря — это уникальные экосистемы, которые славятся чистотой вод.",
+      "Все суда Компании используют траловый метод добычи, который является экологичным.",
+      "Компания оснащает свои суда специальным оборудованием, которое позволяет достигать почти нулевого уровня отходов."
+    ],
+    "missing_data": [
+      "объём квот в тоннах",
+      "ИМО судов",
+      "названия активных судов"
+    ],
+    "vessels": [],
+    "vessels_with_imo": 0,
+    "vessels_without_imo": 0
+  },
+  "db_sync": {
+    "upserted": 0,
+    "skipped_no_imo": 1,
+    "errors": 48
+  },
+  "data_sources": {
+    "company_groups": "/Users/natalia/Code/Quotas_analytic/data/company_groups.csv",
+    "company_groups_enriched": "/Users/natalia/Code/Quotas_analytic/data/company_groups_enriched.csv",
+    "quota_summary": "/Users/natalia/Code/Quotas_analytic/output/quota_summary.csv",
+    "cerberus_export": "/Users/natalia/Code/Quotas_analytic/data/cerberus_export.csv",
+    "vessels_csv": "/Users/natalia/Code/Quotas_analytic/notion_import/vessels.csv",
+    "gfw_vessels_json": "/Users/natalia/Code/Quotas_analytic/data/gfw_our_vessels.json"
+  }
+}

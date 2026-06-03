@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Наши суда — карта</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, sans-serif; }
+    .layout { display: flex; height: 100vh; }
+    .sidebar {
+      width: 320px; min-width: 280px;
+      background: #1a2332; color: #e2e8f0;
+      overflow-y: auto; padding: 12px;
+    }
+    .sidebar h1 { font-size: 1.1rem; margin: 0 0 8px; font-weight: 600; }
+    .sidebar p { font-size: 0.85rem; color: #94a3b8; margin: 0 0 12px; }
+    .filters { margin-bottom: 12px; }
+    .filters label { display: block; font-size: 0.75rem; color: #94a3b8; margin-bottom: 2px; }
+    .filters select {
+      width: 100%; padding: 6px 8px; margin-bottom: 8px;
+      background: #243044; color: #e2e8f0; border: 1px solid #334155; border-radius: 4px;
+      font-size: 0.85rem; cursor: pointer;
+    }
+    .filters select:focus { outline: none; border-color: #3b82f6; }
+    .filters input[type="text"] {
+      width: 100%; padding: 6px 8px; margin-bottom: 8px;
+      background: #243044; color: #e2e8f0; border: 1px solid #334155; border-radius: 4px;
+      font-size: 0.85rem;
+    }
+    .filters input:focus { outline: none; border-color: #3b82f6; }
+    .filters input::placeholder { color: #64748b; }
+    .vessel-list { list-style: none; padding: 0; margin: 0; }
+    .vessel-list li {
+      padding: 8px 10px; margin-bottom: 4px;
+      background: #243044; border-radius: 6px; font-size: 0.9rem;
+      border-left: 3px solid #3b82f6;
+    }
+    .vessel-list li strong { display: block; margin-bottom: 2px; }
+    .vessel-list li span { color: #94a3b8; font-size: 0.8rem; }
+    .vessel-list li .vessel-group { display: block; font-size: 0.75rem; color: #64748b; margin-top: 2px; }
+    #map { flex: 1; height: 100%; }
+    .leaflet-popup-content { margin: 10px 14px; min-width: 180px; }
+    .popup-name { font-weight: 600; margin-bottom: 4px; }
+    .popup-meta { font-size: 0.85rem; color: #64748b; }
+    .vessel-card-tooltip {
+      padding: 10px 12px; min-width: 260px; max-width: 360px; max-height: 70vh; overflow-y: auto;
+      background: #1e293b; color: #e2e8f0; border-radius: 8px; border: 1px solid #334155;
+      font-size: 0.85rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      pointer-events: none;
+    }
+    .vessel-card-tooltip .card-title { font-weight: 600; margin-bottom: 6px; font-size: 1rem; }
+    .vessel-card-tooltip .card-section { margin-top: 10px; padding-top: 8px; border-top: 1px solid #334155; }
+    .vessel-card-tooltip .card-section-title { font-size: 0.75rem; color: #94a3b8; text-transform: uppercase; margin-bottom: 4px; }
+    .vessel-card-tooltip .quota-row { font-size: 0.8rem; color: #cbd5e1; }
+    .vessel-card-tooltip a { color: #60a5fa; }
+    .vessel-card-tooltip .vessel-photo { width: 100%; max-width: 240px; border-radius: 6px; margin: 6px 0; display: block; }
+    .no-positions-msg { background: #334155; color: #94a3b8; padding: 10px; border-radius: 6px; margin-top: 8px; font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h1>Наши суда</h1>
+      <p id="subtitle">Список судов из Цербера. На карте — позиции из Global Fishing Watch (если задан токен).</p>
+      <div class="filters">
+        <label for="filter-search">Поиск</label>
+        <input type="text" id="filter-search" placeholder="Судно или судовладелец…" autocomplete="off">
+        <label for="filter-group">Группа компаний</label>
+        <select id="filter-group"><option value="">— все —</option></select>
+        <label for="filter-type">Проект (FleetPhoto)</label>
+        <select id="filter-type"><option value="">— все —</option></select>
+        <label for="filter-region">Район промысла</label>
+        <select id="filter-region"><option value="">— все —</option></select>
+      </div>
+      <ul class="vessel-list" id="vessel-list"></ul>
+    </aside>
+    <div id="map"></div>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script>
+    const map = L.map('map').setView([55, 150], 4);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    const vesselList = document.getElementById('vessel-list');
+    const subtitle = document.getElementById('subtitle');
+    const filterSearch = document.getElementById('filter-search');
+    const filterGroup = document.getElementById('filter-group');
+    const filterType = document.getElementById('filter-type');
+    const filterRegion = document.getElementById('filter-region');
+
+    let allVessels = [];
+    let allGeojson = { type: 'FeatureCollection', features: [] };
+    let geoJsonLayer = null;
+
+    function escapeHtml(s) {
+      const div = document.createElement('div');
+      div.textContent = s;
+      return div.innerHTML;
+    }
+
+    function renderList(vessels) {
+      if (!vesselList) return;
+      const list = Array.isArray(vessels) ? vessels : [];
+      vesselList.innerHTML = list.map(v => {
+        const name = escapeHtml(v.display_name || v.name || v.gfw_name || '—');
+        const company = escapeHtml((v.company_short || v.company || '').slice(0, 55));
+        const group = (v.company_group || '').trim();
+        const groupStr = group ? '<span class="vessel-group">' + escapeHtml(group) + '</span>' : '';
+        const gfw = v.gfw_id ? ' ✓' : '';
+        const project = (v.vessel_type || '').trim();
+        const projectStr = project ? '<span class="vessel-group">Проект: ' + escapeHtml(project) + '</span>' : '';
+        return `<li><strong>${name}${gfw}</strong><span>${company}</span>${projectStr}${groupStr}</li>`;
+      }).join('');
+    }
+
+    function attrEscape(s) {
+      return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+    }
+    function fillFilterOptions() {
+      try {
+        const groups = [...new Set(allVessels.flatMap(v => v.company_groups || []).filter(Boolean))].sort();
+        const types = [...new Set(allVessels.map(v => (v.vessel_type || '').trim()).filter(Boolean))].sort();
+        const regions = [...new Set(allVessels.map(v => (v.region || '').trim()).filter(Boolean))].sort();
+        if (filterGroup) filterGroup.innerHTML = '<option value="">— все —</option>' + groups.map(g => `<option value="${attrEscape(g)}">${escapeHtml(g)}</option>`).join('');
+        if (filterType) filterType.innerHTML = '<option value="">— все —</option>' + types.map(t => `<option value="${attrEscape(t)}">${escapeHtml(t)}</option>`).join('');
+        if (filterRegion) filterRegion.innerHTML = '<option value="">— все —</option>' + regions.map(r => `<option value="${attrEscape(r)}">${escapeHtml(r)}</option>`).join('');
+      } catch (e) {
+        console.warn('fillFilterOptions:', e);
+      }
+    }
+
+    function applyFilters() {
+      const searchVal = (filterSearch.value || '').trim().toLowerCase();
+      const groupVal = filterGroup.value;
+      const typeVal = filterType.value;
+      const regionVal = filterRegion.value;
+      const filtered = allVessels.filter(v => {
+        if (searchVal) {
+          const text = ((v.company || '') + ' ' + (v.display_name || v.name || '') + ' ' + (v.name || '')).toLowerCase();
+          if (text.indexOf(searchVal) === -1) return false;
+        }
+        if (groupVal) {
+          const gs = v.company_groups || [];
+          if (gs.indexOf(groupVal) === -1) return false;
+        }
+        if (typeVal && (v.vessel_type || '') !== typeVal) return false;
+        if (regionVal && (v.region || '') !== regionVal) return false;
+        return true;
+      });
+      const filteredGeo = {
+        type: 'FeatureCollection',
+        features: allGeojson.features.filter(f => {
+          const p = f.properties || {};
+          if (searchVal) {
+            const text = ((p.company || '') + ' ' + (p.display_name || p.name || '') + ' ' + (p.name || '')).toLowerCase();
+            if (text.indexOf(searchVal) === -1) return false;
+          }
+          if (groupVal) {
+            const gs = p.company_groups || [];
+            if (gs.indexOf(groupVal) === -1) return false;
+          }
+          if (typeVal && (p.vessel_type || '') !== typeVal) return false;
+          if (regionVal && (p.region || '') !== regionVal) return false;
+          return true;
+        })
+      };
+      renderList(filtered);
+      if (geoJsonLayer) {
+        map.removeLayer(geoJsonLayer);
+        geoJsonLayer = null;
+      }
+      if (filteredGeo.features.length > 0) {
+        geoJsonLayer = L.geoJSON(filteredGeo, {
+          pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+            radius: 8, fillColor: '#3b82f6', color: '#1e40af', weight: 2, fillOpacity: 0.9
+          }),
+          onEachFeature: (feature, layer) => {
+            const p = feature.properties || {};
+            const popupName = escapeHtml(p.display_name || p.name || p.gfw_name || '—');
+            layer.bindPopup(
+              '<div class="popup-name">' + popupName + '</div>' +
+              (p.company_short || p.company ? '<div class="popup-meta">' + escapeHtml(p.company_short || p.company) + '</div>' : '') +
+              (p.company_group ? '<div class="popup-meta">Группа: ' + escapeHtml(p.company_group) + '</div>' : '') +
+              (p.vessel_type ? '<div class="popup-meta">Проект (FleetPhoto): ' + escapeHtml(p.vessel_type) + '</div>' : '') +
+              (p.region ? '<div class="popup-meta">Район промысла: ' + escapeHtml(p.region) + '</div>' : '') +
+              (p.gfw_fishing_events_90d != null ? '<div class="popup-meta">Траление (90 д.): ' + p.gfw_fishing_events_90d + '</div>' : '') +
+              (p.gfw_port_visits_90d != null ? '<div class="popup-meta">Заходы в порт: ' + p.gfw_port_visits_90d + '</div>' : '') +
+              (p.gfw_encounters_90d != null ? '<div class="popup-meta">Перегрузки: ' + p.gfw_encounters_90d + '</div>' : '') +
+              (p.gfw_id ? '<div class="popup-meta"><a href="https://globalfishingwatch.org/map?vessel=' + p.gfw_id + '" target="_blank">Открыть в GFW</a></div>' : '')
+            );
+            layer.bindTooltip('Загрузка…', { sticky: true, direction: 'top', className: 'vessel-card-tooltip', offset: [0, -8] });
+            let hoverTimer = null;
+            layer.on('mouseover', function () {
+              hoverTimer = setTimeout(function () {
+                const inn = (p.inn || '').trim();
+                if (!inn) {
+                  layer.getTooltip().setContent(buildVesselCardHtml(p, null));
+                  layer.openTooltip();
+                  return;
+                }
+                fetch('/api/quota/' + encodeURIComponent(inn)).then(r => r.json()).then(function (quota) {
+                  layer.getTooltip().setContent(buildVesselCardHtml(p, quota));
+                  layer.openTooltip();
+                }).catch(function () {
+                  layer.getTooltip().setContent(buildVesselCardHtml(p, null));
+                  layer.openTooltip();
+                });
+              }, 350);
+            });
+            layer.on('mouseout', function () {
+              if (hoverTimer) clearTimeout(hoverTimer);
+              layer.closeTooltip();
+            });
+          }
+        });
+        geoJsonLayer.addTo(map);
+        map.fitBounds(geoJsonLayer.getBounds(), { padding: [30, 30] });
+      }
+    }
+
+    function buildVesselCardHtml(p, quota) {
+      const displayName = escapeHtml(p.display_name || p.name || p.gfw_name || '—');
+      const company = escapeHtml(p.company_short || p.company || '');
+      let quotaHtml = '—';
+      if (quota && quota.summary_by_year && quota.summary_by_year.length) {
+        quotaHtml = quota.summary_by_year.map(s =>
+          s.year + ': ' + s.volume_ton + ' т'
+        ).join('; ');
+        if (quota.total_rows > 50) quotaHtml += ' <span class="popup-meta">(всего строк: ' + quota.total_rows + ')</span>';
+      } else if (quota && p.inn) {
+        quotaHtml = 'нет данных по квотам';
+      }
+      const fishing = (p.gfw_fishing_events_90d != null) ? Number(p.gfw_fishing_events_90d) : 0;
+      const port = (p.gfw_port_visits_90d != null) ? Number(p.gfw_port_visits_90d) : 0;
+      const enc = (p.gfw_encounters_90d != null) ? Number(p.gfw_encounters_90d) : 0;
+      const parts = [
+        'Траление: ' + fishing + (p.gfw_last_fishing_date ? ' (посл. ' + escapeHtml(p.gfw_last_fishing_date) + ')' : ''),
+        'Заходы в порт: ' + port + (p.gfw_last_port_visit ? ' (посл. ' + escapeHtml(p.gfw_last_port_visit) + ')' : ''),
+        'Перегрузки: ' + enc + (p.gfw_last_encounter_date ? ' (посл. ' + escapeHtml(p.gfw_last_encounter_date) + ')' : '')
+      ];
+      const activityBlock = '<div class="card-section"><div class="card-section-title">Активность GFW (90 дней)</div><div class="quota-row">' + parts.join('<br>') + '</div></div>';
+      let photoBlock = '';
+      if (p.fleetphoto_photo_url) {
+        photoBlock = '<div class="card-section"><div class="card-section-title">Фото</div><a href="' + escapeHtml(p.fleetphoto_photo_url) + '" target="_blank" rel="noopener"><img class="vessel-photo" src="' + escapeHtml(p.fleetphoto_photo_url) + '" alt="Судно"></a></div>';
+      }
+      return '<div class="vessel-card-tooltip">' +
+        '<div class="card-title">' + displayName + '</div>' +
+        (company ? '<div class="popup-meta">' + company + '</div>' : '') +
+        (p.company_group ? '<div class="popup-meta">Группа: ' + escapeHtml(p.company_group) + '</div>' : '') +
+        (p.vessel_type ? '<div class="popup-meta">Проект (FleetPhoto): ' + escapeHtml(p.vessel_type) + '</div>' : '') +
+        (p.region ? '<div class="popup-meta">Район промысла: ' + escapeHtml(p.region) + '</div>' : '') +
+        photoBlock +
+        activityBlock +
+        '<div class="card-section"><div class="card-section-title">Квота (объём, т)</div><div class="quota-row">' + quotaHtml + '</div></div>' +
+        '<div class="card-section"><div class="card-section-title">Выловы</div><div class="quota-row">— (источник в разработке)</div></div>' +
+        (p.gfw_id ? '<div class="popup-meta" style="margin-top:8px"><a href="https://globalfishingwatch.org/map?vessel=' + p.gfw_id + '" target="_blank">Открыть в GFW</a></div>' : '') +
+        '</div>';
+    }
+
+    function addGeoJsonToMap(geojson) {
+      allGeojson = geojson;
+      geoJsonLayer = L.geoJSON(geojson, {
+        pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+          radius: 8, fillColor: '#3b82f6', color: '#1e40af', weight: 2, fillOpacity: 0.9
+        }),
+        onEachFeature: (feature, layer) => {
+          const p = feature.properties || {};
+          layer.bindPopup(function () {
+            const popupName = escapeHtml(p.display_name || p.name || p.gfw_name || '—');
+            let html = '<div class="popup-name">' + popupName + '</div>' +
+              (p.company_short || p.company ? '<div class="popup-meta">' + escapeHtml(p.company_short || p.company) + '</div>' : '') +
+              (p.company_group ? '<div class="popup-meta">Группа: ' + escapeHtml(p.company_group) + '</div>' : '') +
+              (p.vessel_type ? '<div class="popup-meta">Проект (FleetPhoto): ' + escapeHtml(p.vessel_type) + '</div>' : '') +
+              (p.region ? '<div class="popup-meta">Район промысла: ' + escapeHtml(p.region) + '</div>' : '');
+            if (p.gfw_fishing_events_90d != null) html += '<div class="popup-meta">Траление (90 д.): ' + p.gfw_fishing_events_90d + '</div>';
+            if (p.gfw_port_visits_90d != null) html += '<div class="popup-meta">Заходы в порт: ' + p.gfw_port_visits_90d + '</div>';
+            if (p.gfw_encounters_90d != null) html += '<div class="popup-meta">Перегрузки: ' + p.gfw_encounters_90d + '</div>';
+            if (p.gfw_id) html += '<div class="popup-meta"><a href="https://globalfishingwatch.org/map?vessel=' + p.gfw_id + '" target="_blank">Открыть в GFW</a></div>';
+            return html;
+          }());
+          layer.bindTooltip('Загрузка…', {
+            sticky: true,
+            direction: 'top',
+            className: 'vessel-card-tooltip',
+            offset: [0, -8]
+          });
+          let hoverTimer = null;
+          layer.on('mouseover', function () {
+            hoverTimer = setTimeout(function () {
+              const inn = (p.inn || '').trim();
+              if (!inn) {
+                layer.getTooltip().setContent(buildVesselCardHtml(p, null));
+                layer.openTooltip();
+                return;
+              }
+              fetch('/api/quota/' + encodeURIComponent(inn))
+                .then(function (r) { return r.json(); })
+                .then(function (quota) {
+                  layer.getTooltip().setContent(buildVesselCardHtml(p, quota));
+                  layer.openTooltip();
+                })
+                .catch(function () {
+                  layer.getTooltip().setContent(buildVesselCardHtml(p, null));
+                  layer.openTooltip();
+                });
+            }, 350);
+          });
+          layer.on('mouseout', function () {
+            if (hoverTimer) clearTimeout(hoverTimer);
+            layer.closeTooltip();
+          });
+        }
+      });
+      geoJsonLayer.addTo(map);
+      if (geojson.features && geojson.features.length) {
+        map.fitBounds(geoJsonLayer.getBounds(), { padding: [30, 30] });
+      }
+    }
+
+    (async function () {
+      if (!vesselList) {
+        console.error('Элемент #vessel-list не найден');
+        return;
+      }
+      try {
+        const listRes = await fetch('/api/vessels');
+        if (!listRes.ok) {
+          vesselList.innerHTML = '<li class="no-positions-msg">Ошибка сервера: ' + listRes.status + '. Проверьте, что запущен python web/app.py из корня проекта.</li>';
+          return;
+        }
+        const listData = await listRes.json();
+        allVessels = listData.vessels || [];
+        if (!Array.isArray(allVessels)) allVessels = [];
+
+        // Сначала отрисовать список, чтобы он точно появился
+        renderList(allVessels);
+        if (subtitle) subtitle.textContent = allVessels.length ? ('Загружено судов: ' + allVessels.length + '.') : 'Нет данных.';
+
+        const geoRes = await fetch('/api/vessels/geojson');
+        const geojson = geoRes.ok ? await geoRes.json() : { type: 'FeatureCollection', features: [] };
+
+        fillFilterOptions();
+        if (filterSearch) { filterSearch.addEventListener('input', applyFilters); filterSearch.addEventListener('keyup', applyFilters); }
+        if (filterGroup) filterGroup.addEventListener('change', applyFilters);
+        if (filterType) filterType.addEventListener('change', applyFilters);
+        if (filterRegion) filterRegion.addEventListener('change', applyFilters);
+
+        if (allVessels.length === 0) {
+          vesselList.innerHTML = '<li class="no-positions-msg">Список судов пуст. Откройте <a href="/api/debug" target="_blank">/api/debug</a> — там видно, находит ли сервер файлы data/gfw_our_vessels.json и data/cerberus_export.csv.</li>';
+          if (subtitle) subtitle.textContent = 'Нет данных. Запустите сервер из корня: python web/app.py';
+        } else if (geojson.features && geojson.features.length > 0) {
+          addGeoJsonToMap(geojson);
+          if (subtitle) subtitle.textContent = 'Судов: ' + allVessels.length + '. На карте: ' + geojson.features.length + ' (позиции GFW за 14 д.).';
+        } else {
+          const withGfw = allVessels.filter(function(v) { return v.gfw_id; }).length;
+          vesselList.insertAdjacentHTML('afterend', '<p class="no-positions-msg">На карте нет точек. Суда с gfw_id: ' + withGfw + '. Позиции берутся из GFW за 14 дней.</p>');
+          if (subtitle) subtitle.textContent = 'Судов: ' + allVessels.length + '. Позиции для карты не получены (GFW).';
+        }
+      } catch (e) {
+        console.error('Загрузка судов:', e);
+        vesselList.innerHTML = '<li class="no-positions-msg">Ошибка: ' + escapeHtml(String(e)) + '. Откройте страницу по адресу http://localhost:5001 (не как файл).</li>';
+      }
+    })();
+  </script>
+</body>
+</html>

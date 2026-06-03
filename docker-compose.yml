@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: quotas_analytic_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: quotas
+      POSTGRES_PASSWORD: quotas_local_dev
+      POSTGRES_DB: quotas_analytic
+    ports:
+      - "5432:5432"
+    volumes:
+      - quotas_pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U quotas -d quotas_analytic"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+volumes:
+  quotas_pg_data:

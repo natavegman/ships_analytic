@@ -1,0 +1,1207 @@
+{
+  "source_url": "https://russianfishery.ru/",
+  "fetched_at": "2026-06-03T22:33:16.698223+00:00",
+  "company": {
+    "inn": "2543142330",
+    "legal_name": "ООО \"СЕВЕРО-ОХОТСКАЯ СЕЛЬДЕВАЯ КОМПАНИЯ\"",
+    "group_name": "ГК Гидрострой",
+    "match_score": 60,
+    "match_source": "company_groups_enriched.csv"
+  },
+  "group_companies": [
+    {
+      "inn": "2503017090",
+      "legal_name": "ООО \"Юния\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2508111410",
+      "legal_name": "ООО НРК \"МАРЕН\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2518000814",
+      "legal_name": "ПАО \"ПБТФ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2537042030",
+      "legal_name": "ООО \"АКВАТЕХНОЛОГИИ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2540291083",
+      "legal_name": "ООО \"СЕЛЬДЬ 1\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543142322",
+      "legal_name": "ООО \"Светлое море\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543142330",
+      "legal_name": "ООО \"СЕВЕРО-ОХОТСКАЯ СЕЛЬДЕВАЯ КОМПАНИЯ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543160138",
+      "legal_name": "ООО \"МАРИНИСТ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543160427",
+      "legal_name": "ООО \"КОДФИШ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543182371",
+      "legal_name": "ООО \"МИНТАЙ ПРОМ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2543184876",
+      "legal_name": "ООО \"ОСК\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2700045160",
+      "legal_name": "ООО \"ГОРИЗОНТ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "2720046210",
+      "legal_name": "ООО \"АКВАРИУС\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "4100052169",
+      "legal_name": "ООО \"САНФИШ 2\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "4100052176",
+      "legal_name": "ООО «САНФИШ 3\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "4101158009",
+      "legal_name": "Организация ООО \"Город 415\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500000747",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500001370",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500008016",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500010216",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500010417",
+      "legal_name": "ООО \"МОРСКОЙ ЁЖ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500010537",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500010544",
+      "legal_name": "ООО \"КАМБАЛЫ ПРИБОЯ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500010791",
+      "legal_name": "ООО \"Приморский ёж\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500011562",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500012301",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500016426",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500020084",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6500026625",
+      "legal_name": "ООО \"СЕВКУРМИНТ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501012632",
+      "legal_name": "ЗАО «ПИЛЕНГА\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501074974",
+      "legal_name": "ЗАО «ОСТРОВ САХАЛИН»",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501078432",
+      "legal_name": "ООО \"ПО САХАЛИНРЫБАКСОЮЗ»",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501237280",
+      "legal_name": "ООО \"ЛИТОРАЛЬ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501243982",
+      "legal_name": "ООО \"ДАЛЬКРЕВЕТКА\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501249293",
+      "legal_name": "ООО \"ДИОНИС\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501269349",
+      "legal_name": "ООО \"ЛАГУНА\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501305910",
+      "legal_name": "АО \"ДОЛИНСК\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501306833",
+      "legal_name": "ООО \"МОЕ МОРЕ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6501312153",
+      "legal_name": "ООО \"ПАЛТУСЫ ВОСТОКА\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6503010415",
+      "legal_name": "ООО \"АНТЕЙ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6504006429",
+      "legal_name": "ООО \"РК им. Кирова\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6504015230",
+      "legal_name": "ООО \"НАВИ-ПЛЮС\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6504018696",
+      "legal_name": "ООО \"ПРИБОЙ-ВОСТОК\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6504025100",
+      "legal_name": "ООО \"ЗАЛОМ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6505009408",
+      "legal_name": "ООО \"ФРЕГАТ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6507000094",
+      "legal_name": "СПК \"РК \"ДРУЖБА\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6507005529",
+      "legal_name": "ООО «ПОРОНАЙ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6507009273",
+      "legal_name": "ООО \"КРАБ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6507014107",
+      "legal_name": "ООО \"СИФИШ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6509045622",
+      "legal_name": "Организация ООО \"ПРИБОЙ-Т\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6510901042",
+      "legal_name": "ООО \"ТАРАНАЙ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6511000178",
+      "legal_name": "ЗАО «КУРИЛЬСКИЙ РЫБАК»",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6512001150",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6512002918",
+      "legal_name": "ООО \"РЫБАК\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6512002964",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6512003196",
+      "legal_name": "ООО \"ОКЕАН\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6514002039",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6515000242",
+      "legal_name": "АО \"СК БСФ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6515001310",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6516008854",
+      "legal_name": "Проверка контрагента по ИНН – больше, чем выписка из ЕГРЮЛ",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518004020",
+      "legal_name": "ООО \"МОРИОН\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518004358",
+      "legal_name": "ООО \"САНДИ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518004380",
+      "legal_name": "ООО \"НАТАЛИ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518004830",
+      "legal_name": "ООО \"ФЛИНТ\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518008708",
+      "legal_name": "АО \"АЛЬБАКОР\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "6518009571",
+      "legal_name": "ООО \"ЯНТАРЬ-1\"",
+      "group_name": "ГК Гидрострой"
+    },
+    {
+      "inn": "8203002819",
+      "legal_name": "ООО \"ТЫМЛАТСКИЙ РЫБОКОМБИНАТ\"",
+      "group_name": "ГК Гидрострой"
+    }
+  ],
+  "quotas_rosrybolovstvo": [
+    {
+      "year": "2024",
+      "basin": "Дальневосточный",
+      "species": "Сельдь",
+      "quota_type": "Промышленная",
+      "share_pct": "0.37",
+      "volume_tons": 925.598,
+      "legal_name": "ООО \"СЕВЕРО-ОХОТСКАЯ СЕЛЬДЕВАЯ КОМПАНИЯ\""
+    }
+  ],
+  "quota_total_tons_latest_year": 925.6,
+  "cerber_vessels_count": 15,
+  "group_inns": [
+    "2503017090",
+    "2508111410",
+    "2518000814",
+    "2537042030",
+    "2540291083",
+    "2543142322",
+    "2543142330",
+    "2543160138",
+    "2543160427",
+    "2543182371",
+    "2543184876",
+    "2700045160",
+    "2720046210",
+    "4100052169",
+    "4100052176",
+    "4101158009",
+    "6500000747",
+    "6500001370",
+    "6500008016",
+    "6500010216",
+    "6500010417",
+    "6500010537",
+    "6500010544",
+    "6500010791",
+    "6500011562",
+    "6500012301",
+    "6500016426",
+    "6500020084",
+    "6500026625",
+    "6501012632",
+    "6501074974",
+    "6501078432",
+    "6501237280",
+    "6501243982",
+    "6501249293",
+    "6501269349",
+    "6501305910",
+    "6501306833",
+    "6501312153",
+    "6503010415",
+    "6504006429",
+    "6504015230",
+    "6504018696",
+    "6504025100",
+    "6505009408",
+    "6507000094",
+    "6507005529",
+    "6507009273",
+    "6507014107",
+    "6509045622",
+    "6510901042",
+    "6511000178",
+    "6512001150",
+    "6512002918",
+    "6512002964",
+    "6512003196",
+    "6514002039",
+    "6515000242",
+    "6515001310",
+    "6516008854",
+    "6518004020",
+    "6518004358",
+    "6518004380",
+    "6518004830",
+    "6518008708",
+    "6518009571",
+    "8203002819"
+  ],
+  "group_fleet_count": 41,
+  "vessels_on_dispatcher_count": 0,
+  "vessels": [
+    {
+      "name": "Александр Косарев",
+      "imo": 8607153,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "РТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "349ad2efa-add8-c28b-f55e-c59bc55b01ff",
+      "gfw_name": "ALEKSANDR KOSAREV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Альтаир",
+      "owner_inn": "6501074974",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОСТРОВ  САХАЛИН\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "824a76377-7e52-c8a2-dfc2-ccff63353dda",
+      "gfw_name": "ALTAIR",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Анива",
+      "owner_inn": "6501074974",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОСТРОВ  САХАЛИН\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "764e40104-43d4-9831-848d-b092acd34409",
+      "gfw_name": "ANIVA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "imo": 9369253,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Братцево",
+      "imo": 8721806,
+      "imo_source": "gfw_cache",
+      "owner_inn": "8203002819",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЫМЛАТСКИЙ РЫБОКОМБИНАТ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "20379899d-dcb2-07ec-ba3d-70e48601ede6",
+      "gfw_name": "BRATTSEVO",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Бриз",
+      "owner_inn": "6515000242",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕВЕРО-КУРИЛЬСКАЯ БАЗА СЕЙНЕРНОГО ФЛОТА\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "54d3a00e3-38f6-9018-1cad-adc81e0b1017",
+      "gfw_name": "BRIZ",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Бухта Преображения",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "ТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "105c3e75e-e5a9-944c-a1f2-779b6e1f351a",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 9121120,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Василий Каленов",
+      "imo": 8908129,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6507005529",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОРОНАЙ\"",
+      "vessel_type": "РТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "1c0c16f47-7ac8-eb4e-f5bd-79ffb9a37978",
+      "gfw_name": "VASILIY KALENOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Вераспер",
+      "imo": 9055266,
+      "imo_source": "gfw_cache",
+      "owner_inn": "8203002819",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЫМЛАТСКИЙ РЫБОКОМБИНАТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "981d7aa26-6a57-5b54-1bdf-845aa36afb9c",
+      "gfw_name": "VERASPER",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Владимир Никора",
+      "imo": 9935856,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6515000242",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕВЕРО-КУРИЛЬСКАЯ БАЗА СЕЙНЕРНОГО ФЛОТА\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c6a025107-77ba-3d94-654e-8ee5d5c90450",
+      "gfw_name": "VLADIMIR NIKORA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Генерал Трошев",
+      "imo": 9121144,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "ТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "eff28efbd-d882-8555-9fbb-caff384b29fe",
+      "gfw_name": "GENERAL TROSHEV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Иоланта",
+      "owner_inn": "6501078432",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ САХАЛИНРЫБАКСОЮЗ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "fdbfcd84e-ed13-8ca0-3eac-280881e4fa94",
+      "gfw_name": "IOLANTA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "imo": 8913289,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Богомолов",
+      "imo": 8607402,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6507005529",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОРОНАЙ\"",
+      "vessel_type": "РТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "57871468a-a994-35af-afb7-b9a23d9ed3aa",
+      "gfw_name": "KAPITAN BOGOMOLOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Демидюк",
+      "imo": 8624565,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4ff71a5b0-0056-2cec-4c89-726e7f47ad56",
+      "gfw_name": "KAPITAN DEMIDYUK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Капитан Колесников",
+      "imo": 8724327,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "d4cb2c6a6-6023-77dc-106a-cd0d8848e006",
+      "gfw_name": "KAPITAN KOLESNIKOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Кишиневка",
+      "imo": 8423533,
+      "imo_source": "gfw_cache",
+      "owner_inn": "4101158009",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГОРОД 415\"",
+      "vessel_type": "СТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "ba54e90f7-73c3-66de-3952-f5056cee92d6",
+      "gfw_name": "KISHINEVKA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Камчатский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Курильский Десант",
+      "owner_inn": "6515000242",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕВЕРО-КУРИЛЬСКАЯ БАЗА СЕЙНЕРНОГО ФЛОТА\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Лангуста",
+      "owner_inn": "6511000178",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО\"КУРИЛЬСКИЙ РЫБАК\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Леопард",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "РШ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bd3a5710e-e30f-ead8-1b12-92cfdd9e4ccb",
+      "gfw_name": "LEOPARD2",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Лучегорск",
+      "imo": 9796846,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "РШ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c77c12d43-3755-b6f6-fddd-4499b3eccff5",
+      "gfw_name": "LUCHEGORSK",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Марен",
+      "owner_inn": "2508111410",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НОВАЯ РЫБОЛОВНАЯ КОМПАНИЯ \"МАРЕН\"",
+      "sources": [
+        "gfw_cache"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Морион",
+      "owner_inn": "6518004020",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МОРИОН\"",
+      "vessel_type": "РС",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "bb0c2bb15-5a55-15e8-3911-087fe4b83b65",
+      "gfw_name": "MY ORION",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Муравьев-Амурский",
+      "imo": 9146352,
+      "imo_source": "gfw_cache",
+      "owner_inn": "8203002819",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЫМЛАТСКИЙ РЫБОКОМБИНАТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "9510a8311-1b08-37de-1888-82e64a063c74",
+      "gfw_name": "MURAVYEV-AMURSKIY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Датта",
+      "imo": 9053309,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6507005529",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОРОНАЙ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "30e0a6caf-f4e1-58bc-570e-d97cb48918eb",
+      "gfw_name": "MYS DATTA",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Докучаева",
+      "imo": 9053323,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6501078432",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ САХАЛИНРЫБАКСОЮЗ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "c59c3d010-0b9b-a27b-c31c-a14472461d39",
+      "gfw_name": "MYS DOKUCHAEVA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Левенорна",
+      "imo": 9053270,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6501078432",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ САХАЛИНРЫБАКСОЮЗ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4cf8d8742-2fea-4455-c5f7-cc79509da268",
+      "gfw_name": "MYS LEVENORNA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Меньшикова",
+      "imo": 9053385,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6501078432",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ САХАЛИНРЫБАКСОЮЗ\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "129fecd27-7d07-bda7-45c7-5e6187cde27d",
+      "gfw_name": "MYS MENSHIKOVA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Мыс Урумпет",
+      "owner_inn": "6501312153",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАЛТУСЫ ВОСТОКА\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "5685e2568-84f6-6dea-d66e-3d5b7e7d5d46",
+      "gfw_name": "MYS NADEZHDA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Остров Итуруп",
+      "imo": 8847246,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6507005529",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОРОНАЙ\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "89b3dff36-66a3-6e46-bfe9-e4c61701dddc",
+      "gfw_name": "OSTROV ITURUP",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Остров Кунашир",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4c16f0254-4bdc-190c-d3bc-da00fc412e7a",
+      "gfw_name": "R82-88ME",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Приморский край",
+      "cerber_export": "Страны Таможенного Союза",
+      "imo": 9060431,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Остров Монерон",
+      "imo": 8907266,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6515000242",
+      "owner_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕВЕРО-КУРИЛЬСКАЯ БАЗА СЕЙНЕРНОГО ФЛОТА\"",
+      "vessel_type": "СРТМ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4626735a8-868c-e421-7729-24958ec3b3ea",
+      "gfw_name": "ANGEL 121",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Остров Сахалин",
+      "owner_inn": "6501074974",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОСТРОВ  САХАЛИН\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4c16f0254-4bdc-190c-d3bc-da00fc412e7a",
+      "gfw_name": "R82-88ME",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Павел Кутахов",
+      "imo": 8607282,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6511000178",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО\"КУРИЛЬСКИЙ РЫБАК\"",
+      "vessel_type": "РТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "274620016-6683-08c9-4cf4-11b0b328a62a",
+      "gfw_name": "PAVEL KUTAKHOV",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Пик Надежды",
+      "imo": 8986834,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2508111410",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НОВАЯ РЫБОЛОВНАЯ КОМПАНИЯ \"МАРЕН\"",
+      "vessel_type": "МРТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "58a602d9f-ff79-6505-d874-7fd6a41c6fe7",
+      "gfw_name": "PIK NADEZHDY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Пиленга",
+      "imo": 9101003,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6501012632",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПИЛЕНГА\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "1752cdc07-7712-2a23-3c27-c1b735d212e0",
+      "gfw_name": "PILENGA",
+      "sources": [
+        "cerberus",
+        "gfw_cache",
+        "group_registry"
+      ],
+      "cerber_status": "Запись подтверждена",
+      "cerber_region": "Сахалинская обл.",
+      "cerber_export": "Страны Таможенного Союза",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Пиленга-2",
+      "imo": 9120310,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6501012632",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПИЛЕНГА\"",
+      "vessel_type": "БМРТ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "a7789c12e-ef58-e5fb-40ef-91ea3a4f6036",
+      "gfw_name": "PILENGA 2",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Рысь",
+      "imo": 9005314,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "РШ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "4bdbb4552-2a88-1e48-7407-cd553084995e",
+      "gfw_name": "RYS",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Святитель Николай",
+      "owner_inn": "6518004358",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"САНДИ\"",
+      "vessel_type": "ТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "5ecca5d00-0a28-45de-65fe-9b551f618d19",
+      "gfw_name": "SVYATITEL NIKOLAY",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "imo": 8843070,
+      "imo_source": "gfw_api",
+      "on_dispatcher": false
+    },
+    {
+      "name": "Серово",
+      "imo": 8033235,
+      "imo_source": "gfw_cache",
+      "owner_inn": "2518000814",
+      "owner_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРЕОБРАЖЕНСКАЯ БАЗА ТРАЛОВОГО ФЛОТА\"",
+      "vessel_type": "СТР",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "59066796a-a052-9a50-4b0f-ca90ba88fbe6",
+      "gfw_name": "SEROVO",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Стар-1",
+      "owner_inn": "6511000178",
+      "owner_name": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО\"КУРИЛЬСКИЙ РЫБАК\"",
+      "vessel_type": "РШ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "91a5ab91e-e318-da2d-69c0-13e49dba70cd",
+      "gfw_name": "SANTA11",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Хокутацу Мару №1",
+      "imo": 8627141,
+      "imo_source": "gfw_cache",
+      "owner_inn": "6518004830",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФЛИНТ\"",
+      "vessel_type": "РШ",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "gfw_id": "6e180c508-8086-e477-7e7c-ba59b32e7db8",
+      "gfw_name": "KHOKUTATSU MARU 1",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    },
+    {
+      "name": "Экзотика",
+      "owner_inn": "6518004830",
+      "owner_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФЛИНТ\"",
+      "operational_status": "Эксплуатация",
+      "work_region": "Дальневосточный",
+      "sources": [
+        "gfw_cache",
+        "group_registry"
+      ],
+      "on_dispatcher": false
+    }
+  ],
+  "vessels_on_dispatcher": [],
+  "vessels_with_imo": 30,
+  "vessels_without_imo": [
+    "Альтаир",
+    "Бриз",
+    "Курильский Десант",
+    "Лангуста",
+    "Леопард",
+    "Марен",
+    "Морион",
+    "Мыс Урумпет",
+    "Остров Сахалин",
+    "Стар-1",
+    "Экзотика"
+  ],
+  "analysis": {
+    "competitor_name": "Русская Рыбопромышленная Компания",
+    "target_species": [
+      "минтай"
+    ],
+    "fishing_basins": [
+      "Охотское море",
+      "Берингово море"
+    ],
+    "estimated_quota_tons": null,
+    "active_vessels": [],
+    "vessel_dislocation": [],
+    "market_threat_score": 3,
+    "strategic_summary": "Русская Рыбопромышленная Компания (РРПК) является одним из мировых лидеров по добыче и переработке минтая. Компания активно развивает устойчивое развитие, включая обновление флота и снижение выбросов CO2. Основные акватории промысла — Охотское и Берингово моря. Компания сертифицирована по стандартам MSC и ISO 22000. Объём квот в тоннах не указан в источнике.",
+    "facts_from_source": [
+      "Русская Рыбопромышленная Компания — один из лидеров по добыче минтая в России и мире.",
+      "Компания ведет промысел в акватории Тихого океана, добывая рыбу в природной среде его обитания.",
+      "Охотское и Берингово моря — это уникальные экосистемы, которые славятся чистотой вод.",
+      "Все суда Компании используют траловый метод добычи, который является экологичным.",
+      "Компания сертифицирована по ISO 22000 «Системы менеджмента безопасности пищевой продукции»."
+    ],
+    "missing_data": [
+      "объём квот в тоннах",
+      "ИМО судов",
+      "названия активных судов"
+    ],
+    "vessels": [],
+    "vessels_with_imo": 0,
+    "vessels_without_imo": 0
+  },
+  "db_sync": {
+    "upserted": 0,
+    "skipped_no_imo": 11,
+    "errors": 30
+  },
+  "data_sources": {
+    "company_groups": "/Users/natalia/Code/Quotas_analytic/data/company_groups.csv",
+    "company_groups_enriched": "/Users/natalia/Code/Quotas_analytic/data/company_groups_enriched.csv",
+    "quota_summary": "/Users/natalia/Code/Quotas_analytic/output/quota_summary.csv",
+    "cerberus_export": "/Users/natalia/Code/Quotas_analytic/data/cerberus_export.csv",
+    "vessels_csv": "/Users/natalia/Code/Quotas_analytic/notion_import/vessels.csv",
+    "gfw_vessels_json": "/Users/natalia/Code/Quotas_analytic/data/gfw_our_vessels.json"
+  }
+}
