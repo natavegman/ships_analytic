@@ -23,3 +23,29 @@ build/
 
 # Scraped HTML caches (may embed third-party tokens)
 output/trusteddocks*.html
+
+# Чувствительные аналитические данные — только локально, не деплоить
+output/gfw_activity/
+output/gfw_fleet/
+output/gfw_repairs/
+output/quota_summary.csv
+output/companies_with_export.csv
+output/reports/
+output/rmrs_events_*.json
+data/nbamr_events/
+data/gfw_tracks/
+data/reference/
+data/track-data-*.csv
+data/calculations_2026_quota_rows.csv
+data/cerberus_export.csv
+data/company_groups_enriched*.csv
+data/company_groups_manual_edit.csv
+data/gfw_our_vessels.json
+data/gfw_enriched_vessels.json
+data/fleetphoto_rmrs_vessel_ids.json
+data/fleetphoto_rmrs_vessels.txt
+data/director_group_reviews.json
+data/fns_requests_today.json
+data/list_org_not_found_inns.txt
+data/order_texts/
+dashboards/

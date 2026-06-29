@@ -1,5 +1,0 @@
-vessel,imo,survey_type,survey_code,survey_name,survey_label,date_last_raw,date_next_raw,status,docking_required,is_due,date_next_early,date_next_late
-ALEXANDR BELYAKOV(RUS),8721260,Regulatory,CLC.A,Ежегодный (оценка),Ежегодный (оценка),2025-04-15,15.01.2026 14.07.2026,DUE,False,True,2026-01-15,2026-07-14
-ALEXANDR BELYAKOV(RUS),8721260,Regulatory,CLC.IN,Промежуточный (оценка),Промежуточный (оценка),2025-04-15,17.07.2027 13.01.2028,ESTIMATED,False,False,2027-07-17,2028-01-13
-ALEXANDR BELYAKOV(RUS),8721260,Regulatory,CLC.S,Специальный периодический (оценка),Специальный периодический (оценка),2025-04-15,15.01.2030 14.07.2030,ESTIMATED,True,False,2030-01-15,2030-07-14
-ALEXANDR BELYAKOV(RUS),8721260,Regulatory,CLC.D,Донный осмотр (оценка),Донный осмотр (оценка),2025-04-15,15.01.2030 14.07.2030,ESTIMATED,True,False,2030-01-15,2030-07-14

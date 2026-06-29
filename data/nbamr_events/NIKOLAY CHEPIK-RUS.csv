@@ -1,2 +1,0 @@
-id,flag,mmsi,imo,shipname,shiptypes,geartypes,callsign,lengthM,tonnageGt,builtYear,transmissionStart,transmissionEnd,identitySource,sourceCode,owner,operator,authorization
-462c71698-8e83-c7b0-a088-cc284297c16a,Russia,273821210,8826670,Nikolay Chepik,Fishing,Trawler,UBJB,,,---,2012-05-14T12:14:19.000Z,2026-06-27T23:56:26.000Z,selfReportedInfo,AIS,,---,
