@@ -20,6 +20,7 @@
 | **Веб-карта** | Список судов с поиском, фильтрами (группа, проект FleetPhoto, район промысла), сокращённые названия компаний (ООО, АО). Название судна и проект FleetPhoto разделены. |
 | **Точки на карте** | Позиции из GFW (fishing/port events за 30 дней). Если точек нет — смотреть `/api/debug` (`positions_from_gfw`). |
 | **Обогащение GFW** | Только события: траление, заходы в порт, перегрузки (без vessel details). |
+| **GFW Fleet Analytics** | Модуль эффективности флота по CSV events: KPI, вылов×GFW, набор груза, ремонты, RMRS. Пилот: НБАМР (7 судов). См. `docs/GFW_FLEET_ANALYTICS.md`. |
 
 ---
 
@@ -82,6 +83,17 @@ python3 scripts/enrich_gfw_vessel_details.py
 ```
 События за 90 дней в том же JSON (без флага/владельца).
 
+### 6b. GFW Fleet Analytics (эффективность флота, вылов, продажи)
+```bash
+# Положить CSV выгрузки GFW events в data/nbamr_events/ (или свою папку)
+# Справочник вылова: data/reference/nbamr_vessel_catch.csv
+.venv/bin/python scripts/gfw_fleet_analytic.py --input-dir data/nbamr_events --rmrs-dir output
+# Одиночное судно — ремонты/докования:
+.venv/bin/python scripts/gfw_repairs_analytic.py --input "data/nbamr_events/ALEXANDR BELYAKOV(RUS)-events-....csv"
+```
+Результат: `output/gfw_fleet/` (scorecard, benchmark, yearly, encounters).  
+Документация: `docs/GFW_FLEET_ANALYTICS.md`. Правило для AI: `.cursor/rules/gfw-fleet-analytics.mdc`.
+
 ### 7. Квоты 2026 (при необходимости)
 ```bash
 python3 scripts/fetch_calculations_2026_quotas.py
@@ -118,6 +130,10 @@ python3 scripts/notion_create_databases.py --create-dbs --import-data
 | `data/gfw_enriched_vessels.json` | Доп. суда из GFW по компаниям. |
 | `output/quota_summary.csv` | Квоты + группы; район промысла (бассейн) для карты. |
 | `output/companies_with_export.csv` | Компании с экспортом и судами. |
+| `data/nbamr_events/` | GFW events CSV по флоту НБАМР (2012→2027). |
+| `data/reference/nbamr_vessel_catch.csv` | Тип судна, вылов сезона, трюм (редактируемый). |
+| `output/gfw_fleet/` | Scorecard, benchmark, yearly, encounters. |
+| `output/rmrs_events_<IMO>.json` | Кэш RMRS для классового прогноза. |
 
 ---
 

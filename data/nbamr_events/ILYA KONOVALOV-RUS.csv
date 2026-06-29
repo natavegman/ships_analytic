@@ -1,0 +1,2 @@
+id,flag,mmsi,imo,shipname,shiptypes,geartypes,callsign,lengthM,tonnageGt,builtYear,transmissionStart,transmissionEnd,identitySource,sourceCode,owner,operator,authorization
+bf87e0b31-13a4-b329-2af6-dd694d2bddbc,Russia,273828110,8721167,Ilya Konovalov,Fishing,Trawler,UIYB,,,---,2012-01-13T23:54:10.000Z,2026-06-27T23:59:37.000Z,selfReportedInfo,AIS,,---,

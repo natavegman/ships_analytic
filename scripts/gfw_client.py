@@ -508,3 +508,288 @@ def get_encounters_summary(
         vessel_ids, days_back, batch_size,
         GFW_ENCOUNTERS_DATASET, "encounter", progress_label="encounters",
     )
+
+
+# ---------------------------------------------------------------------------
+# Tracks API (public-global-all-tracks) + fallback AIS Presence (hourly)
+# ---------------------------------------------------------------------------
+GFW_ALL_TRACKS_DATASET = "public-global-all-tracks:latest"
+GFW_PRESENCE_DATASET = "public-global-presence:latest"
+
+
+class GfwApiError(RuntimeError):
+    """Ошибка GFW API с кодом HTTP."""
+
+    def __init__(self, status_code: int, message: str):
+        super().__init__(message)
+        self.status_code = status_code
+
+
+def _request_with_retry(
+    method: str,
+    url: str,
+    *,
+    params: dict | None = None,
+    json_body: dict | None = None,
+    timeout: int = DEFAULT_TIMEOUT,
+    max_retries: int = 4,
+) -> requests.Response:
+    """GET/POST с повторами при 429/503/524."""
+    for attempt in range(max_retries):
+        if method.upper() == "GET":
+            r = requests.get(url, headers=_headers(), params=params, timeout=timeout)
+        else:
+            r = requests.post(
+                url, headers=_headers(), params=params, json=json_body, timeout=timeout
+            )
+        if r.status_code in (429, 503, 524) and attempt < max_retries - 1:
+            time.sleep((2 ** attempt) * 5)
+            continue
+        return r
+    return r
+
+
+def split_date_range(start: str, end: str, max_days: int = 90) -> list[tuple[str, str]]:
+    """Разбить [start, end] на интервалы не длиннее max_days (YYYY-MM-DD)."""
+    from datetime import date, timedelta
+
+    s = date.fromisoformat(start[:10])
+    e = date.fromisoformat(end[:10])
+    if s > e:
+        raise ValueError(f"start > end: {start} > {end}")
+    chunks: list[tuple[str, str]] = []
+    cur = s
+    while cur <= e:
+        chunk_end = min(cur + timedelta(days=max_days - 1), e)
+        chunks.append((cur.isoformat(), chunk_end.isoformat()))
+        cur = chunk_end + timedelta(days=1)
+    return chunks
+
+
+def fetch_vessel_tracks_raw(
+    vessel_id: str,
+    start_date: str,
+    end_date: str,
+    *,
+    dataset: str = GFW_ALL_TRACKS_DATASET,
+    fmt: str = "CSV",
+) -> tuple[str, bytes | dict]:
+    """
+    Сырой трек судна через GET /v3/vessels/{id}/tracks.
+    Требует доступ к public-global-all-tracks (Advanced / map download tier).
+
+    Returns:
+        (content_type, body) — body bytes для CSV или dict для JSON.
+    Raises:
+        GfwApiError(403) если нет доступа к датасету треков.
+    """
+    start_iso = start_date if "T" in start_date else f"{start_date[:10]}T00:00:00.000Z"
+    end_iso = end_date if "T" in end_date else f"{end_date[:10]}T23:59:59.999Z"
+    url = f"{GFW_API_BASE}/vessels/{vessel_id}/tracks"
+    params = {
+        "start-date": start_iso,
+        "end-date": end_iso,
+        "datasets[0]": dataset,
+        "format": fmt.upper(),
+    }
+    r = _request_with_retry("GET", url, params=params, timeout=120)
+    if r.status_code == 403:
+        raise GfwApiError(403, r.text)
+    r.raise_for_status()
+    ctype = (r.headers.get("content-type") or "").lower()
+    if "json" in ctype or fmt.upper() == "JSON":
+        return ctype, r.json()
+    return ctype, r.content
+
+
+def _normalize_track_point(row: dict[str, Any], vessel_id: str, seg_fallback: str) -> dict[str, Any]:
+    """Привести точку трека к схеме CSV выгрузки с карты GFW."""
+    ts = (
+        row.get("timestamp")
+        or row.get("date")
+        or row.get("time")
+        or row.get("entryTimestamp")
+    )
+    lon = row.get("lon") if row.get("lon") is not None else row.get("longitude")
+    lat = row.get("lat") if row.get("lat") is not None else row.get("latitude")
+    speed = row.get("speed") if row.get("speed") is not None else row.get("sog")
+    course = row.get("course") if row.get("course") is not None else row.get("cog")
+    depth = row.get("depth")
+    seg = row.get("seg_id") or row.get("segId") or row.get("segmentId") or seg_fallback
+    return {
+        "lon": lon,
+        "lat": lat,
+        "course": course,
+        "timestamp": ts,
+        "speed": speed,
+        "depth": depth,
+        "seg_id": seg,
+        "vessel_id": vessel_id,
+    }
+
+
+def parse_tracks_response(
+    payload: bytes | dict,
+    vessel_id: str,
+    *,
+    content_type: str = "",
+) -> list[dict[str, Any]]:
+    """Разобрать ответ tracks API (CSV bytes или JSON) в список точек."""
+    import csv
+    import io
+
+    points: list[dict[str, Any]] = []
+    if isinstance(payload, dict):
+        entries = payload.get("entries") or payload.get("positions") or payload.get("data") or []
+        if isinstance(entries, dict):
+            entries = [entries]
+        for row in entries:
+            if isinstance(row, dict):
+                points.append(_normalize_track_point(row, vessel_id, vessel_id))
+        return points
+
+    text = payload.decode("utf-8-sig", errors="replace").strip()
+    if not text:
+        return points
+    # иногда CSV приходит внутри zip — пока только plain CSV
+    reader = csv.DictReader(io.StringIO(text))
+    for row in reader:
+        norm = _normalize_track_point(
+            {k.lower(): v for k, v in row.items()},
+            vessel_id,
+            vessel_id,
+        )
+        points.append(norm)
+    return points
+
+
+def fetch_vessel_presence_hourly(
+    vessel_id: str,
+    start_date: str,
+    end_date: str,
+    bbox: tuple[float, float, float, float],
+) -> list[dict[str, Any]]:
+    """
+  Hourly AIS presence (1 позиция/час) в bbox, фильтр по vessel_id на клиенте.
+  bbox: (west, south, east, north).
+  """
+    west, south, east, north = bbox
+    url = f"{GFW_API_BASE}/4wings/report"
+    params = {
+        "spatial-resolution": "HIGH",
+        "temporal-resolution": "HOURLY",
+        "group-by": "VESSEL_ID",
+        "datasets[0]": GFW_PRESENCE_DATASET,
+        "date-range": f"{start_date[:10]},{end_date[:10]}",
+        "format": "JSON",
+    }
+    body = {
+        "geojson": {
+            "type": "Polygon",
+            "coordinates": [[
+                [west, south], [east, south], [east, north], [west, north], [west, south],
+            ]],
+        }
+    }
+    r = _request_with_retry("POST", url, params=params, json_body=body, timeout=180)
+    if r.status_code == 403:
+        raise GfwApiError(403, r.text)
+    r.raise_for_status()
+    data = r.json()
+    entries = data.get("entries") or []
+    if not entries:
+        return []
+    dataset_key = next(iter(entries[0].keys()))
+    rows = entries[0].get(dataset_key) or []
+    vid_norm = _normalize_vessel_id(vessel_id)
+    out = []
+    for row in rows:
+        rid = row.get("vesselId") or row.get("vessel_id")
+        if _normalize_vessel_id(str(rid or "")) != vid_norm:
+            continue
+        out.append(row)
+    return out
+
+
+def presence_rows_to_track_points(
+    rows: list[dict[str, Any]],
+    vessel_id: str,
+) -> list[dict[str, Any]]:
+    """
+    Конвертировать hourly presence → псевдо-трек для gwf_analytic.py.
+    speed/course вычисляются по соседним точкам; depth пустой.
+    """
+    import math
+    from datetime import datetime, timezone
+
+    if not rows:
+        return []
+
+    def parse_ts(val: str) -> datetime:
+        s = str(val).strip().replace(" ", "T")
+        if s.endswith("Z"):
+            return datetime.fromisoformat(s.replace("Z", "+00:00"))
+        if "+" in s[10:]:
+            return datetime.fromisoformat(s)
+        return datetime.fromisoformat(s).replace(tzinfo=timezone.utc)
+
+    def hav_nm(lat1, lon1, lat2, lon2):
+        r_km = 6371.0088
+        p1, p2 = math.radians(lat1), math.radians(lat2)
+        dphi = math.radians(lat2 - lat1)
+        dlmb = math.radians(lon2 - lon1)
+        a = math.sin(dphi / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dlmb / 2) ** 2
+        km = 2 * r_km * math.asin(min(1.0, math.sqrt(a)))
+        return km / 1.852
+
+    def bearing(lat1, lon1, lat2, lon2):
+        p1, p2 = math.radians(lat1), math.radians(lat2)
+        dlmb = math.radians(lon2 - lon1)
+        x = math.sin(dlmb) * math.cos(p2)
+        y = math.cos(p1) * math.sin(p2) - math.sin(p1) * math.cos(p2) * math.cos(dlmb)
+        return (math.degrees(math.atan2(x, y)) + 360) % 360
+
+    sorted_rows = sorted(rows, key=lambda r: r.get("date") or "")
+    points: list[dict[str, Any]] = []
+    for i, row in enumerate(sorted_rows):
+        ts = parse_ts(row["date"])
+        lat, lon = float(row["lat"]), float(row["lon"])
+        speed, course = 0.0, 0.0
+        if i > 0:
+            prev = points[-1]
+            dt_h = (ts - parse_ts(sorted_rows[i - 1]["date"])).total_seconds() / 3600
+            if dt_h > 0:
+                dist = hav_nm(float(prev["lat"]), float(prev["lon"]), lat, lon)
+                speed = dist / dt_h
+                course = bearing(float(prev["lat"]), float(prev["lon"]), lat, lon)
+        points.append({
+            "lon": lon,
+            "lat": lat,
+            "course": round(course, 1),
+            "timestamp": ts.isoformat().replace("+00:00", "Z"),
+            "speed": round(speed, 2),
+            "depth": "",
+            "seg_id": f"{vessel_id}-presence",
+            "vessel_id": vessel_id,
+            "source": "presence_hourly",
+        })
+    return points
+
+
+def tracks_access_available(vessel_id: str) -> bool:
+    """Проверить, есть ли у токена доступ к public-global-all-tracks."""
+    try:
+        fetch_vessel_tracks_raw(
+            vessel_id,
+            "2026-01-01",
+            "2026-01-02",
+            fmt="JSON",
+        )
+        return True
+    except GfwApiError as e:
+        if e.status_code == 403:
+            return False
+        raise
+    except requests.RequestException:
+        return False
+

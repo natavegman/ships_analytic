@@ -1,0 +1,37 @@
+---
+description: GFW fleet analytics — вылов, набор груза, ремонты, класс РС, НБАМР
+globs: Quotas_analytic/scripts/gfw*.py,Quotas_analytic/scripts/gwf_analytic.py,Quotas_analytic/data/nbamr_events/**,Quotas_analytic/data/reference/**
+alwaysApply: false
+---
+
+# GFW Fleet Analytics (Quotas_analytic)
+
+## Главный скрипт
+
+```bash
+.venv/bin/python scripts/gfw_fleet_analytic.py --input-dir data/nbamr_events --rmrs-dir output
+```
+
+Выход: `output/gfw_fleet/` (scorecard, benchmark, yearly, encounters).
+
+## Критические правила методологии
+
+1. **GFW-активность ≠ вылов.** Для ранжирования использовать `catch_per_seaday_t` из `gfw_catch_cargo.py` + официальную сводку (`data/reference/nbamr_vessel_catch.csv`).
+
+2. **ЦАРИЦА — плавзавод (СТР/РТМКС), не БМРТ.** `peer_group=factory`. Не включать в бенчмарк БМРТ. Другая логистика (НР, 26% сдачи в море).
+
+3. **Классовые докования — только forward-looking.** Судно в море ⇒ нет `overdue`. Статусы: `due_soon` / `approaching` / `scheduled`. Ежегодные осмотры на плаву не в окне продаж.
+
+4. **Набор груза:** `effective_hold_t` = трюм из справочника ИЛИ `catch_per_seaday_t × offload_cadence_days`. Каденция — медиана внутрисезонных перегрузов GFW (паузы >90 дней отбрасываются).
+
+5. **Бенчмарк** нормируется внутри `peer_group` (trawler vs factory).
+
+## Модули
+
+- `gfw_fleet_analytic.py` — флот, KPI, encounter, benchmark
+- `gfw_repairs_analytic.py` — port_visit, ремонты, цикл докования
+- `gfw_catch_cargo.py` — вылов × GFW, набор груза
+- `gfw_class_survey.py` — RMRS, классовое докование
+- `gwf_analytic.py` — сырые треки (activity budget)
+
+Полная документация: `docs/GFW_FLEET_ANALYTICS.md`

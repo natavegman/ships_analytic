@@ -1,0 +1,2 @@
+id,flag,mmsi,imo,shipname,shiptypes,geartypes,callsign,lengthM,tonnageGt,builtYear,transmissionStart,transmissionEnd,identitySource,sourceCode,owner,operator,authorization
+04c124746-68be-901e-79b3-ed6cf4cb28ff,Russia,273829110,8859811,Kapitan Maslovets,Fishing,Trawler,UIYC,,,---,2012-04-17T11:18:13.000Z,2026-06-27T23:59:55.000Z,selfReportedInfo,AIS,,---,

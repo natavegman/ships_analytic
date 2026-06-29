@@ -1,0 +1,2 @@
+fetched_at,vessel_id,vessel_name,inn,company,start_date,end_date,source,points,path,status,error
+2026-06-29T12:11:14.823095+00:00,43663694e-ede3-2e29-e8d1-b27d830d0e5b,,,,2026-01-01,2026-01-07,presence_hourly,144,data/gfw_tracks/43663694e-ede3-2e29-e8d1-b27d830d0e5b/track_2026-01-01_2026-01-07.csv,ok,
