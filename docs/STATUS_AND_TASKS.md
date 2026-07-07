@@ -42,7 +42,22 @@ DataNewton: 200 запросов/мин, структурированный JSON
 python3 scripts/enrich_companies_to_db.py
 ```
 
-**Ручное исправление групп:**
+**ИИ-разбор конфликтов и недостающих групп (перед ручной проверкой):**
+```bash
+python3 scripts/resolve_company_groups_ai.py --dry-run   # план без вызовов API
+python3 scripts/resolve_company_groups_ai.py              # разбор через OpenAI (нужен OPENAI_API_KEY в .env)
+```
+propagate_by_director() в enrich_via_datanewton.py останавливается там, где один
+директор формально относится к нескольким известным группам (частое явление —
+номинальный/профессиональный директор). Этот скрипт разбирает такие конфликты и
+неназначенные группы через LLM, используя только данные из enriched CSV (директор,
+ИНН директора, учредители, связанные компании, адрес, известные группы с примерами
+компаний) — без домыслов. Уверенные случаи назначаются сразу, неоднозначные явно
+помечаются `Требует проверки (ИИ): <причина>` в Комментарии — чтобы в ручной
+проверке ниже оставались только они, а не весь список. Заодно чистит накопленные
+дубли текста `Конфликт групп по директору (...)` в Комментарии.
+
+**Ручное исправление групп (только то, что реально нужно проверить руками):**
 ```bash
 python3 scripts/export_company_groups_for_manual_edit.py   # → data/company_groups_manual_edit.csv
 # отредактировать в Excel/Sheets колонки Группа_Компаний, Комментарий
@@ -142,6 +157,7 @@ python3 scripts/notion_create_databases.py --create-dbs --import-data
 | # | Шаг | Команда | Частота |
 |---|-----|---------|---------|
 | 1 | Компании + группы | `enrich_companies_to_db.py` | Ежедневно |
+| 1b | ИИ-разбор конфликтов групп | `resolve_company_groups_ai.py` | После 1, при новых конфликтах |
 | 2 | Цербер | `cerberus_download_auto.py` или ручная выгрузка | Раз в неделю |
 | 3 | Проливка групп | `fill_quota_summary_groups.py` + `fill_companies_with_export_groups.py` | После 1–2 |
 | 4 | FleetPhoto | `merge_rmrs_fleetphoto.py`, затем `enrich_fleetphoto_vessels.py` | После Цербера / раз в неделю |
