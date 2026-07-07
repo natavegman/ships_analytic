@@ -22,6 +22,7 @@ class DaDataCompanyInfo:
     geo_lat: float | None
     geo_lon: float | None
     dadata_last_updated: date
+    address_text: str = ""
 
 
 class DaDataEnricher:
@@ -77,7 +78,9 @@ class DaDataEnricher:
         management = data.get("management") or {}
         state = data.get("state") or {}
         opf = data.get("opf") or {}
-        address_data = (data.get("address") or {}).get("data") or {}
+        address_obj = data.get("address") or {}
+        address_data = address_obj.get("data") or {}
+        address_text = str(address_obj.get("unrestricted_value") or address_obj.get("value") or "").strip()
 
         okved = str(data.get("okved") or "").strip()
         capital_raw = data.get("capital")
@@ -105,5 +108,6 @@ class DaDataEnricher:
             geo_lat=_to_float(address_data.get("geo_lat")),
             geo_lon=_to_float(address_data.get("geo_lon")),
             dadata_last_updated=date.today(),
+            address_text=address_text,
         )
 
