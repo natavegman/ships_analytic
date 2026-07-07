@@ -133,9 +133,19 @@ def dedupe_conflict_comment(comment: str) -> tuple[str, list[tuple[str, list[str
     return remainder, list(seen.items())
 
 
-def build_roster(rows: list[dict]) -> dict[str, list[dict]]:
+def build_roster(rows: list[dict], exclude_inns: set[str] = frozenset()) -> dict[str, list[dict]]:
+    """Строит справочник «известные группы -> их компании» ТОЛЬКО из надёжных
+    строк. exclude_inns обязателен для конфликтных/безгруппных компаний —
+    иначе компания увидит собственную (спорную) текущую группу в этом же
+    справочнике как «известный факт» и просто подтвердит её же, без реального
+    сопоставления по директору/адресу. Это не гипотетический риск: первый
+    прогон именно так и произошёл — 17/29 решений оказались круговыми
+    ссылками на самих себя вида «уже указана в группе X»."""
     roster: dict[str, list[dict]] = defaultdict(list)
     for r in rows:
+        inn = (r.get("ИНН") or "").strip()
+        if inn and inn in exclude_inns:
+            continue
         g = (r.get("Группа_Компаний") or "").strip()
         if g:
             roster[g].append({
@@ -263,8 +273,9 @@ def main() -> None:
     source_path, rows, fieldnames, is_enriched = load_source()
     print(f"Источник: {source_path.name}, строк: {len(rows)}")
 
-    roster = build_roster(rows)
-    targets = find_targets(rows)  # уже чистит дубли конфликт-текста in-place
+    targets = find_targets(rows)
+    target_inns = {(t.row.get("ИНН") or "").strip() for t in targets} - {""}
+    roster = build_roster(rows, exclude_inns=target_inns)
 
     conflicts = [t for t in targets if t.reason == "conflict"]
     no_group = [t for t in targets if t.reason == "no_group"]

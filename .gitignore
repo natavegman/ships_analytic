@@ -49,3 +49,6 @@ data/fns_requests_today.json
 data/list_org_not_found_inns.txt
 data/order_texts/
 dashboards/
+
+# Автоматические бэкапы перед перезаписью (resolve_company_groups_ai.py и т.п.)
+*.csv.backup
